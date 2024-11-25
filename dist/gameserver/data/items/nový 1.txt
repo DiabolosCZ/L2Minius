@@ -1,0 +1,3 @@
+15717	Elegia Ring		a,Elegia Ring The effect is MP +27.\0
+15718	Elegia Earring		a,Elegia Earring. The effect is MP +39.\0
+15719	Elegia Necklace		a,Elegia Necklace. The effect is MP +52.\0

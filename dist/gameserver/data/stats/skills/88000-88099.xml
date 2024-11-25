@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="88000" levels="1" name="Clan Skil +CON">
+		<set name="icon" val="L2MiniusIcon.skill_clan_con" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="2" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="CON" val="4" />
+		</for>
+	</skill>
+	<skill id="88001" levels="1" name="Clan Skil +DEX">
+		<set name="icon" val="L2MiniusIcon.skill_clan_dex" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="2" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="DEX" val="2" />
+		</for>
+	</skill>
+	<skill id="88002" levels="1" name="Clan Skil +EXP/SP">
+		<set name="icon" val="L2MiniusIcon.skill_clan_exp" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="2" />
+		<set name="isCommon" val="true" />
+		<for>
+			<mul order="0x40" stat="ExpMultiplier" val="0.10" />
+			<mul order="0x40" stat="SpMultiplier" val="0.10" />
+		</for>
+	</skill>
+	<skill id="88003" levels="1" name="Clan Skil +INT">
+		<set name="icon" val="L2MiniusIcon.skill_clan_int" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="2" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="INT" val="2" />
+		</for>
+	</skill>
+	<skill id="88004" levels="1" name="Clan Skil +MEN">
+		<set name="icon" val="L2MiniusIcon.skill_clan_men" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="2" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="MEN" val="2" />
+		</for>
+	</skill>
+	<skill id="88005" levels="1" name="Clan Skil +STR">
+		<set name="icon" val="L2MiniusIcon.skill_clan_str" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="2" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="STR" val="2" />
+		</for>
+	</skill>
+	<skill id="88006" levels="1" name="Clan Skil +WIT">
+		<set name="icon" val="L2MiniusIcon.skill_clan_wit" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="minPledgeClass" val="2" />
+		<set name="isCommon" val="true" />
+		<for>
+			<add order="0x40" stat="WIT" val="2" />
+		</for>
+	</skill>
+</list>

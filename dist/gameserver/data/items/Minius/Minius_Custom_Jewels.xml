@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<armor id="97101" name="Minius Ultimate Ring">
+    <set name="crystal_count" value="83"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_ring_of_baium_i00"/>
+    <set name="price" value="1730000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_heroe_ring"/> 
+	<equip>
+      <slot id="RIGHT_FINGER"/>
+      <slot id="LEFT_FINGER"/>
+    </equip>
+    <skills>
+      <skill id="3561" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="75"/>
+      <add stat="maxMp" order="0x10" value="30"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+	<armor id="97100" name="Minius Ultimate Erring">
+    <set name="crystal_count" value="124"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_earring_of_zaken_i00"/>
+    <set name="price" value="2590000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_heroe_erring"/> 
+	<equip>
+      <slot id="RIGHT_EAR"/>
+      <slot id="LEFT_EAR"/>
+    </equip>
+    <skills>
+      <skill id="97101" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="135"/>
+      <add stat="maxMp" order="0x10" value="40"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+	<armor id="97102" name="Minius Ultimate Necklace">
+    <set name="crystal_count" value="237"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_necklace_of_valakas_i00"/>
+    <set name="price" value="4940000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_heroe_necklace"/> 
+	<equip>
+      <slot id="NECKLACE"/>
+    </equip>
+    <skills>
+      <skill id="97102" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="150"/>
+      <add stat="maxMp" order="0x10" value="80"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+  
+  
+	<armor id="97104" name="Minius Basic Ring">
+    <set name="crystal_count" value="83"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_ring_of_baium_i00"/>
+    <set name="price" value="1730000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_ring"/> 
+	<equip>
+      <slot id="RIGHT_FINGER"/>
+      <slot id="LEFT_FINGER"/>
+    </equip>
+    <skills>
+      <skill id="97104" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="70"/>
+      <add stat="maxMp" order="0x10" value="30"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+	<armor id="97103" name="Minius Basic Erring">
+    <set name="crystal_count" value="124"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_earring_of_zaken_i00"/>
+    <set name="price" value="2590000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_erring"/> 
+	<equip>
+      <slot id="RIGHT_EAR"/>
+      <slot id="LEFT_EAR"/>
+    </equip>
+    <skills>
+      <skill id="97103" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="110"/>
+      <add stat="maxMp" order="0x10" value="40"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+	<armor id="97105" name="Minius Basic Necklace">
+    <set name="crystal_count" value="237"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_necklace_of_valakas_i00"/>
+    <set name="price" value="4940000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_necklace"/> 
+	<equip>
+      <slot id="NECKLACE"/>
+    </equip>
+    <skills>
+      <skill id="97105" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="60"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+  
+  
+	<armor id="97107" name="Minius Legendary Ring">
+    <set name="crystal_count" value="83"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_ring_of_baium_i00"/>
+    <set name="price" value="1730000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_ring_2"/> 
+	<equip>
+      <slot id="RIGHT_FINGER"/>
+      <slot id="LEFT_FINGER"/>
+    </equip>
+    <skills>
+      <skill id="97107" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="95"/>
+      <add stat="maxMp" order="0x10" value="40"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+	<armor id="97106" name="Minius Legendary Erring">
+    <set name="crystal_count" value="124"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_earring_of_zaken_i00"/>
+    <set name="price" value="2590000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_erring_2"/> 
+	<equip>
+      <slot id="RIGHT_EAR"/>
+      <slot id="LEFT_EAR"/>
+    </equip>
+    <skills>
+      <skill id="97106" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="135"/>
+      <add stat="maxMp" order="0x10" value="50"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+	<armor id="97108" name="Minius Legendary Necklace">
+    <set name="crystal_count" value="237"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_necklace_of_valakas_i00"/>
+    <set name="price" value="4940000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.minius_necklace"/> 
+	<equip>
+      <slot id="NECKLACE"/>
+    </equip>
+    <skills>
+      <skill id="97108" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="160"/>
+      <add stat="maxMp" order="0x10" value="80"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+  
+  
+	<armor id="97109" name="Minius Ulitimate Zaken Erring">
+    <set name="crystal_count" value="124"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_earring_of_zaken_i00"/>
+    <set name="price" value="2590000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.j_earring_of_zaken_i00"/> 
+	<equip>
+      <slot id="RIGHT_EAR"/>
+      <slot id="LEFT_EAR"/>
+    </equip>
+    <skills>
+      <skill id="97109" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="125"/>
+      <add stat="maxMp" order="0x10" value="50"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+  
+	<armor id="97110" name="Minius Legendary Zaken Erring">
+    <set name="crystal_count" value="124"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_earring_of_zaken_i00"/>
+    <set name="price" value="2590000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.j_earring_of_zaken_i01"/> 
+	<equip>
+      <slot id="RIGHT_EAR"/>
+      <slot id="LEFT_EAR"/>
+    </equip>
+    <skills>
+      <skill id="97110" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="150"/>
+      <add stat="maxMp" order="0x10" value="60"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+
+	<armor id="97111" name="Minius Legendary Baium Ring">
+    <set name="crystal_count" value="83"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_ring_of_baium_i00"/>
+    <set name="price" value="1730000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.j_ring_of_baium_i04"/> 
+	<equip>
+      <slot id="RIGHT_FINGER"/>
+      <slot id="LEFT_FINGER"/>
+    </equip>
+    <skills>
+      <skill id="97111" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="120"/>
+      <add stat="maxMp" order="0x10" value="40"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+	<armor id="97112" name="Minius Legendary Queen Ring">
+    <set name="crystal_count" value="83"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_ring_of_baium_i00"/>
+    <set name="price" value="1730000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.j_ring_of_queen_ant_i04"/> 
+	<equip>
+      <slot id="RIGHT_FINGER"/>
+      <slot id="LEFT_FINGER"/>
+    </equip>
+    <skills>
+      <skill id="97112" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="120"/>
+      <add stat="maxMp" order="0x10" value="40"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+
+	<armor id="97113" name="Minius Legendary Green Necklace">
+    <set name="crystal_count" value="237"/>
+    <set name="crystal_type" value="S"/>
+    <set name="crystallizable" value="true"/>
+    <set name="augmentable" value="false"/>
+    <set name="icon" value="icon.accessory_necklace_of_valakas_i00"/>
+    <set name="price" value="4940000"/>
+    <set name="type" value="NONE"/>
+    <set name="weight" value="150"/>
+    <set name="icon" value="L2MiniusIcon.bm_pendant_pvp"/> 
+	<equip>
+      <slot id="NECKLACE"/>
+    </equip>
+    <skills>
+      <skill id="97113" level="1"/>
+    </skills>
+    <for>
+      <add stat="mDef" order="0x10" value="190"/>
+      <add stat="maxMp" order="0x10" value="100"/>
+      <enchant stat="mDef" order="0x0C" value="0"/>
+    </for>
+  </armor>
+  
+</list>

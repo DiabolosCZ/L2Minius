@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="95113" />
+		<!-- Red Soul Crystal - Stage 15 -->
+		<production count="1" id="10480" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="95113" />
+		<!-- Green Soul Crystal - Stage 15 -->
+		<production count="1" id="10482" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="95113" />
+		<!-- Blue Soul Crystal - Stage 15 -->
+		<production count="1" id="10481" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="95113" />
+		<!-- Red Soul Crystal - Stage 16 -->
+		<production count="1" id="13071" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="95113" />
+		<!-- Green Soul Crystal - Stage 16 -->
+		<production count="1" id="13072" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="95113" />
+		<!-- Blue Soul Crystal - Stage 16 -->
+		<production count="1" id="13073" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13071" />
+		<ingredient count="1" id="95113" />
+		<!-- Red Soul Crystal - Stage 17 -->
+		<production count="1" id="15541" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13072" />
+		<ingredient count="1" id="95113" />
+		<!-- Green Soul Crystal - Stage 17 -->
+		<production count="1" id="15542" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13073" />
+		<ingredient count="1" id="95113" />
+		<!-- Blue Soul Crystal - Stage 17 -->
+		<production count="1" id="15543" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13071" />
+		<ingredient count="1" id="95113" />
+		<!-- Red Soul Crystal - Stage 18 -->
+		<production count="1" id="15826" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13072" />
+		<ingredient count="1" id="95113" />
+		<!-- Green Soul Crystal - Stage 18 -->
+		<production count="1" id="15827" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1" id="13073" />
+		<ingredient count="1" id="95113" />
+		<!-- Blue Soul Crystal - Stage 18 -->
+		<production count="1" id="15828" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cry Elemental -->
+		<production count="10" id="9552" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cry Elemental -->
+		<production count="10" id="9553" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cry Elemental -->
+		<production count="10" id="9554" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cry Elemental -->
+		<production count="10" id="9555" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cry Elemental -->
+		<production count="10" id="9556" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cry Elemental -->
+		<production count="10" id="9557" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Giant's Codex -->
+		<production count="25" id="6622" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Giant's Codex - Mastery -->
+		<production count="10" id="9627" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="1" id="95113" />
+		<!-- BEAS -->
+		<production count="5" id="6578" />
+	</item>
+	<item>
+		<!-- Festival Adena -->
+		<ingredient count="1" id="95113" />
+		<!-- BEWS -->
+		<production count="2" id="6577" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Shirt -->
+		<production count="1" id="10512" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Shirt -->
+		<production count="1" id="10513" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Shirt -->
+		<production count="1" id="10514" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Bckp Stones -->
+		<production count="5" id="12369" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Bckp Stones -->
+		<production count="5" id="12364" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Bckp Stones -->
+		<production count="5" id="12370" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Bckp Stones -->
+		<production count="5" id="12365" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Bckp Stones -->
+		<production count="5" id="12371" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Bckp Stones -->
+		<production count="5" id="12366" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- LIFE Stones -->
+		<production count="15" id="9575" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- LIFE Stones -->
+		<production count="10" id="9576" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Belt -->
+		<production count="1" id="13953" />
+	</item>
+		<!-- belts-->
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Belt  -->
+		<production count="1" id="14961" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Belt -->
+		<production count="1" id="14957" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Belt  -->
+		<production count="1" id="14953" />
+	</item>
+		<!-- belts finnished-->
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- neo cry  -->
+		<production count="3" id="14681" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- neo cry  -->
+		<production count="2" id="21579" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Blood Oath -->
+		<production count="5" id="9910" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Blood alliance  -->
+		<production count="5" id="9911" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cloak -->
+		<production count="1" id="21583" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cloak -->
+		<production count="1" id="21587" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cloak -->
+		<production count="1" id="21588" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cloak -->
+		<production count="1" id="21716" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cloak -->
+		<production count="1" id="21718" />
+	</item>
+	<item>
+		<!-- Festival Coin -->
+		<ingredient count="1" id="95113" />
+		<!-- Cloak -->
+		<production count="1" id="21717" />
+	</item>
+	
+
+</list>

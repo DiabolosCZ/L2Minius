@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<!-- Faunus Armor Stats -->
+<list>
+	<armor id="800016" name="Heaven Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_helmet"/> 
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="110" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800021" name="Heaven Leather Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_leather_helmet"/> 
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="110" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800026" name="Heaven Circlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_circlet"/> 
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="110" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800017" name="Heaven Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Heaven_icon.armor_heavy_u"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="46668000" />
+		<for>
+			<add stat="pDef" order="0x10" value="273" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800022" name="Heaven Leather Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Heaven_icon.armor_light_u"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="35000000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="207" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800027" name="Heaven Tunic">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Heaven_icon.armor_robe_u"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="142" />
+			<add stat="maxMp" order="0x10" value="661" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<!-- PvP Armor -->
+	<armor id="880017" name="Heaven Breastplate - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Heaven_icon.armor_heavy_u"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="46668000" />
+		<for>
+			<add stat="pDef" order="0x10" value="273" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="880022" name="Heaven Leather Breastplate - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Heaven_icon.armor_light_u"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="35000000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="207" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="880027" name="Heaven Tunic - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Heaven_icon.armor_robe_u"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="142" />
+			<add stat="maxMp" order="0x10" value="661" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<!-- PvP Armor -->
+	
+	
+	<armor id="800018" name="Heaven Gaiter">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Heaven_icon.armor_heavy_l"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1400" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="3170" />
+		<set name="price" value="29168000" />
+		<for>
+			<add stat="pDef" order="0x10" value="170" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800023" name="Heaven Leather Legging">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Heaven_icon.armor_light_l"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1320" />
+		<set name="price" value="21876000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="128" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800028" name="Heaven Stockings">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Heaven_icon.armor_robe_l"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="850" />
+		<set name="price" value="21876000" />
+		<for>
+			<add stat="pDef" order="0x10" value="85" />
+			<add stat="maxMp" order="0x10" value="439" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800019" name="Heaven Gauntlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_heavy_g"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="74" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800024" name="Heaven Leather Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_light_g"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="74" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800029" name="Heaven Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_robe_g"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="74" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800020" name="Heaven Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_heavy_b"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="74" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800025" name="Heaven Leather Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_light_b"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="74" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800030" name="Heaven Shoes">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.armor_robe_b"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="74" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<armor id="800031" name="Heaven's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="icon" value="Heaven_icon.Heaven_cloak"/> 
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+		<skills>
+      <skill id="21242" level="1"/>
+    </skills>
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+
+	<weapon id="800032" name="Heaven Shield">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Heaven_icon.Heaven_shield"/> 
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="588" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1130" />
+		<set name="price" value="12250000" />
+		<for>
+			<add stat="rEvas" order="0x10" value="-8.0000"/>
+			<add stat="sDef" order="0x10" value="371"/>
+			<add stat="rShld" order="0x10" value="20" />
+			<enchant stat="sDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</weapon>
+	
+</list>

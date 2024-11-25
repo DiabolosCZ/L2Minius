@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="99950" levels="1" name="Legendary Heavy Armor Set">
+		<!-- Confirmed CT2.5 & Updated to H5 -->
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="1" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />
+		<for>
+			<add order="0x40" stat="STR" val="2" /> <!-- STR -2 -->
+			<add order="0x40" stat="CON" val="2" /> <!-- CON +2 -->
+			<mul order="0x30" stat="pDef" val="1.1347" /> <!-- Def. Power +8.47% -->
+			<mul order="0x30" stat="pAtk" val="1.0957" /> <!-- Atk. Power +5.57% -->
+			<mul order="0x40" stat="magicResist" val="1.20" /> <!-- Resistance to Damage Magic +2% -->
+			<add order="0x40" stat="maxMp" val="541" /> <!-- Max. HP +541 -->
+			<add order="0x40" stat="bleedResist"  val="70" /> <!-- Resistance to bleed attacks +50% -->
+			<add order="0x40" stat="rootResist"  val="70" /> <!-- Resistance to hold attacks +50% -->
+			<add order="0x40" stat="sleepResist" val="70" /> <!-- Resistance to sleep attacks +50% -->
+			<add order="0x40" stat="defenceFire" val="10" /> <!-- Resistance to fire attributes +5 -->
+			<add order="0x40" stat="defenceWater" val="10" /> <!-- Resistance to water attributes +5 -->
+			<add order="0x40" stat="defenceWind" val="10" /> <!-- Resistance to wind attributes +5 -->
+			<add order="0x40" stat="defenceEarth" val="10" /> <!-- Resistance to earth attributes +5 -->
+			<add order="0x40" stat="accCombat" val="4" /> <!-- Increases Accuracy by 4 -->
+			<add order="0x40" stat="runSpd" val="7" /> <!-- Increases Speed by 7 -->
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+		</for>
+	</skill>
+	<skill id="99951" levels="1" name="Legendary Leather Armor Set">
+		<!-- Confirmed CT2.5 & Updated to H5 -->
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="1" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />
+		<for>
+			<add order="0x40" stat="STR" val="3" /> <!-- STR +1 -->
+			<add order="0x40" stat="DEX" val="2" /> <!-- DEX +2 -->
+			<sub order="0x40" stat="CON" val="3" /> <!-- CON -3 -->
+			<mul order="0x30" stat="pAtk" val="1.0857" /> <!-- Atk. Power + 5.57% -->
+			<mul order="0x30" stat="pDef" val="1.0857" /> <!-- Def. Power + 5.57% -->
+			<mul order="0x30" stat="pAtkSpd" val="1.10" /> <!-- Atk. Spd. +5% -->
+			<mul order="0x30" stat="runSpd" val="1.08" /> <!-- Moving Spd. +3% -->
+			<add order="0x40" stat="stunResist" val="70" /> <!-- Resistance to Stun +50% -->
+			<add order="0x40" stat="defenceFire" val="10" /> <!-- Resistance to fire attributes +5 -->
+			<add order="0x40" stat="defenceWater" val="10" /> <!-- Resistance to water attributes +5 -->
+			<add order="0x40" stat="defenceWind" val="10" /> <!-- Resistance to wind attributes +5 -->
+			<add order="0x40" stat="defenceEarth" val="10" /> <!-- Resistance to earth attributes +5 -->
+			<add order="0x40" stat="cAtkStatic" val="182" /> <!-- Increases Critical Damage by 182 -->
+			<add order="0x40" stat="maxMp" val="360" /> <!-- Increases Max MP by 360 -->
+			<add order="0x40" stat="baseCrit" val="171.05" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+		</for>
+	</skill>
+	<skill id="99952" levels="1" name="Legendary Robe Set">
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="1" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />>
+		<for>
+			<add order="0x40" stat="WIT" val="4" /> <!-- WIT +2 -->
+			<sub order="0x40" stat="MEN" val="1" /> <!-- MEN -1 -->
+			<add order="0x40" stat="INT" val="3" /> <!-- INT -1 -->
+			<mul order="0x30" stat="mAtk" val="1.150" /> <!-- M. Power +8.7% -->
+			<mul order="0x30" stat="mAtkSpd" val="1.20" /> <!-- M. Spd. +15% -->
+			<mul order="0x30" stat="regMp" val="1.12" /> <!-- MP Recovery Bonus +5% -->
+			<add order="0x40" stat="stunResist" val="70" /> <!-- Resistance to Stun Atk. +50% -->
+			<add order="0x40" stat="defenceFire" val="10" /> <!-- Resistance to fire attributes +5 -->
+			<add order="0x40" stat="defenceWater" val="10" /> <!-- Resistance to water attributes +5 -->
+			<add order="0x40" stat="defenceWind" val="10" /> <!-- Resistance to wind attributes +5 -->
+			<add order="0x40" stat="defenceEarth" val="10" /> <!-- Resistance to earth attributes +5 -->
+			<mul order="0x30" stat="concentration" val="0.7" />
+			<add order="0x40" stat="runSpd" val="7" /> <!-- Increases Speed by 7 -->
+			<add order="0x40" stat="maxMp" val="260" /> <!-- Increases Max MP by 92 -->
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+		</for>
+	</skill>
+	
+	
+	<skill id="99953" levels="1" name="Legendary Heavy Armor Set PvP">
+		<!-- Confirmed CT2.5 & Updated to H5 -->
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="1" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />
+		<for>
+			<add order="0x40" stat="STR" val="2" /> <!-- STR -2 -->
+			<add order="0x40" stat="CON" val="2" /> <!-- CON +2 -->
+			<mul order="0x30" stat="pDef" val="1.1347" /> <!-- Def. Power +8.47% -->
+			<mul order="0x30" stat="pAtk" val="1.0957" /> <!-- Atk. Power +5.57% -->
+			<mul order="0x40" stat="magicResist" val="1.20" /> <!-- Resistance to Damage Magic +2% -->
+			<add order="0x40" stat="maxMp" val="541" /> <!-- Max. HP +541 -->
+			<add order="0x40" stat="bleedResist"  val="70" /> <!-- Resistance to bleed attacks +50% -->
+			<add order="0x40" stat="rootResist"  val="70" /> <!-- Resistance to hold attacks +50% -->
+			<add order="0x40" stat="sleepResist" val="70" /> <!-- Resistance to sleep attacks +50% -->
+			<add order="0x40" stat="defenceFire" val="10" /> <!-- Resistance to fire attributes +5 -->
+			<add order="0x40" stat="defenceWater" val="10" /> <!-- Resistance to water attributes +5 -->
+			<add order="0x40" stat="defenceWind" val="10" /> <!-- Resistance to wind attributes +5 -->
+			<add order="0x40" stat="defenceEarth" val="10" /> <!-- Resistance to earth attributes +5 -->
+			<add order="0x40" stat="accCombat" val="4" /> <!-- Increases Accuracy by 4 -->
+			<add order="0x40" stat="runSpd" val="7" /> <!-- Increases Speed by 7 -->
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+		<triggers>
+			<trigger id="5693" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<player damage="1;0" />
+			</trigger>
+		</triggers>
+	</skill>
+	<skill id="99954" levels="1" name="Legendary Leather Armor Set PvP">
+		<!-- Confirmed CT2.5 & Updated to H5 -->
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="1" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />
+		<for>
+			<add order="0x40" stat="STR" val="3" /> <!-- STR +1 -->
+			<add order="0x40" stat="DEX" val="2" /> <!-- DEX +2 -->
+			<sub order="0x40" stat="CON" val="3" /> <!-- CON -3 -->
+			<mul order="0x30" stat="pAtk" val="1.0857" /> <!-- Atk. Power + 5.57% -->
+			<mul order="0x30" stat="pDef" val="1.0857" /> <!-- Def. Power + 5.57% -->
+			<mul order="0x30" stat="pAtkSpd" val="1.10" /> <!-- Atk. Spd. +5% -->
+			<mul order="0x30" stat="runSpd" val="1.08" /> <!-- Moving Spd. +3% -->
+			<add order="0x40" stat="stunResist" val="70" /> <!-- Resistance to Stun +50% -->
+			<add order="0x40" stat="defenceFire" val="10" /> <!-- Resistance to fire attributes +5 -->
+			<add order="0x40" stat="defenceWater" val="10" /> <!-- Resistance to water attributes +5 -->
+			<add order="0x40" stat="defenceWind" val="10" /> <!-- Resistance to wind attributes +5 -->
+			<add order="0x40" stat="defenceEarth" val="10" /> <!-- Resistance to earth attributes +5 -->
+			<add order="0x40" stat="cAtkStatic" val="182" /> <!-- Increases Critical Damage by 182 -->
+			<add order="0x40" stat="maxMp" val="360" /> <!-- Increases Max MP by 360 -->
+			<add order="0x40" stat="baseCrit" val="171.05" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+		<triggers>
+			<trigger id="5694" level="1" type="RECEIVE_DAMAGE" chance="8">
+				<player damage="1;0" />
+			</trigger>
+		</triggers>
+	</skill>
+	<skill id="99955" levels="1" name="Legendary Robe Set PvP">
+		<set name="skillType" val="BUFF" />
+		<set name="magicLevel" val="1" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<set name="target" val="TARGET_SELF" />>
+		<for>
+			<add order="0x40" stat="WIT" val="4" /> <!-- WIT +2 -->
+			<sub order="0x40" stat="MEN" val="1" /> <!-- MEN -1 -->
+			<add order="0x40" stat="INT" val="3" /> <!-- INT -1 -->
+			<mul order="0x30" stat="mAtk" val="1.150" /> <!-- M. Power +8.7% -->
+			<mul order="0x30" stat="mAtkSpd" val="1.20" /> <!-- M. Spd. +15% -->
+			<mul order="0x30" stat="regMp" val="1.12" /> <!-- MP Recovery Bonus +5% -->
+			<add order="0x40" stat="stunResist" val="70" /> <!-- Resistance to Stun Atk. +50% -->
+			<add order="0x40" stat="defenceFire" val="10" /> <!-- Resistance to fire attributes +5 -->
+			<add order="0x40" stat="defenceWater" val="10" /> <!-- Resistance to water attributes +5 -->
+			<add order="0x40" stat="defenceWind" val="10" /> <!-- Resistance to wind attributes +5 -->
+			<add order="0x40" stat="defenceEarth" val="10" /> <!-- Resistance to earth attributes +5 -->
+			<mul order="0x30" stat="concentration" val="0.7" />
+			<add order="0x40" stat="runSpd" val="7" /> <!-- Increases Speed by 7 -->
+			<add order="0x40" stat="maxMp" val="260" /> <!-- Increases Max MP by 92 -->
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+		<triggers>
+			<trigger id="5691" level="1" type="RECEIVE_DAMAGE" chance="2">
+				<player damage="1;0" />
+			</trigger>
+		</triggers>
+	</skill>
+</list>

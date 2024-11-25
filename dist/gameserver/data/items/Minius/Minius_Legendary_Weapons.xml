@@ -1,0 +1,3755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<weapon id="900050" name="Legendary Shaper {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900051" name="Legendary Shaper {PvP}" add_name="Crt. Damage">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3572" level="2"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900052" name="Legendary Shaper {PvP}" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3568" level="2"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900053" name="Legendary Shaper {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900060" name="Legendary Cutter {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900170"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900061" name="Legendary Cutter {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900171"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900062" name="Legendary Cutter {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900172"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900063" name="Legendary Cutter {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+	<set name="kamael_convert" value="900173"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	
+	<weapon id="900070" name="Legendary Avenger {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900071" name="Legendary Avenger {PvP}" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3568" level="2"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900072" name="Legendary Avenger {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900073" name="Legendary Avenger {PvP}" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3569" level="2"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900080" name="Legendary Dual Avenger {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.dualblunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3656" level="1"/>
+    </skills>
+    <enchant4_skill id="3411" level="1"/>
+    <!--Special Ability: Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900090" name="Legendary Buster {PvP}">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900091" name="Legendary Buster {PvP}" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900092" name="Legendary Buster {PvP}" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900093" name="Legendary Buster {PvP}" add_name="Magic Hold">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <triggers>
+      <trigger id="3577" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="20"/>
+    </triggers>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900100" name="Legendary Caster {PvP}">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900101" name="Legendary Caster {PvP}" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900102" name="Legendary Caster {PvP}" add_name="MP Regeneration">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3576" level="2"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900103" name="Legendary Caster {PvP}" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900110" name="Legendary Retributer {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3653" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900111" name="Legendary Retributer {PvP}" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3569" level="2"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900112" name="Legendary Retributer {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900113" name="Legendary Retributer {PvP}" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3568" level="2"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900120" name="Legendary Slasher {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+	<set name="kamael_convert" value="900160"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3653" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900121" name="Legendary Slasher {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900161"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900122" name="Legendary Slasher {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900162"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900123" name="Legendary Slasher {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900163"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900130" name="Legendary Fighter {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="4"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900131" name="Legendary Fighter {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3565" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900132" name="Legendary Fighter {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900133" name="Legendary Fighter {PvP}" add_name="Crt. Stun">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900140" name="Legendary Stormer {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3599" level="1"/>
+      <skill id="3650" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900141" name="Legendary Stormer {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="4"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900142" name="Legendary Stormer {PvP}" add_name="Guidance">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3602" level="10"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900143" name="Legendary Stormer {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3601" level="10"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900150" name="Legendary Thrower {PvP}">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+	<set name="kamael_convert" value="900180"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+      <skill id="3656" level="1"/>
+      <skill id="3657" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900151" name="Legendary Thrower {PvP}" add_name="Cheap Shot">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+	<set name="kamael_convert" value="900181"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+      <skill id="8312" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.92"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="900152" name="Legendary Thrower {PvP}" add_name="Focus">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900182"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="4"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900153" name="Legendary Thrower {PvP}" add_name="Crt. Slow">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900183"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="3" type="CRIT" chance="100"/>
+	</triggers>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900160" name="Legendary Nagan {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900120"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900161" name="Legendary Nagan {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900121"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900162" name="Legendary Nagan {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900122"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900163" name="Legendary Nagan {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900123"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900170" name="Legendary Pincer {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900060"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900171" name="Legendary Pincer {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900061"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900172" name="Legendary Pincer {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900062"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900173" name="Legendary Pincer {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900063"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+      <skill id="8289" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900180" name="Vesper Shooter  {PvP}">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900150"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3653" level="1"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900181" name="Vesper Shooter  {PvP}" add_name="Cheap Shot">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900151"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3360" level="1"/>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.88"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="900182" name="Vesper Shooter  {PvP}" add_name="Focus">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900152"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3655" level="1"/>
+      <skill id="3566" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900183" name="Vesper Shooter  {PvP}" add_name="Crt. Slow">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900153"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="2" type="CRIT" chance="100"/>
+	</triggers>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="900190" name="Legendary Dual Daggers {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="8233"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.dualshaper_of_legend"/>
+    <set name="price" value="171530000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALDAGGER"/>
+    <set name="weight" value="2050"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <enchant4_skill id="8298" level="1"/>
+    <!--Special Ability Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="900191" name="Legendary Dual Swords {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.dualsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3656" level="1"/>
+    </skills>
+    <enchant4_skill id="3411" level="1"/>
+    <!--Special Ability: Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912050" name="Legendary Shaper">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912051" name="Legendary Shaper" add_name="Crt. Damage">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3572" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912052" name="Legendary Shaper" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3568" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912053" name="Legendary Shaper" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.shaper_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912060" name="Legendary Cutter">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="912170"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912061" name="Legendary Cutter" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="912171"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912062" name="Legendary Cutter" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="912172"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912063" name="Legendary Cutter" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.sword_of_legend"/>
+	<set name="kamael_convert" value="912173"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	
+	<weapon id="912070" name="Legendary Avenger">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912071" name="Legendary Avenger" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3568" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912072" name="Legendary Avenger" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912073" name="Legendary Avenger" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.blunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3569" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912080" name="Legendary Dual Avenger">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.dualblunt_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <enchant4_skill id="3411" level="1"/>
+    <!--Special Ability: Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912090" name="Legendary Buster">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912091" name="Legendary Buster" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912092" name="Legendary Buster" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912093" name="Legendary Buster" add_name="Magic Hold">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.buster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <triggers>
+      <trigger id="3577" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="20"/>
+    </triggers>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912100" name="Legendary Caster">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912101" name="Legendary Caster" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912102" name="Legendary Caster" add_name="MP Regeneration">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3576" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912103" name="Legendary Caster" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.caster_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912110" name="Legendary Retributer">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912111" name="Legendary Retributer" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3569" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912112" name="Legendary Retributer" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912113" name="Legendary Retributer" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.retributer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3568" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912120" name="Legendary Slasher">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+	<set name="kamael_convert" value="912160"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912121" name="Legendary Slasher" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912161"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912122" name="Legendary Slasher" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912162"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912123" name="Legendary Slasher" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912163"/>
+    <set name="icon" value="LegendWeapons.Icons.thsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912130" name="Legendary Fighter">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912131" name="Legendary Fighter" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3565" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912132" name="Legendary Fighter" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912133" name="Legendary Fighter" add_name="Crt. Stun">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.fighter_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+	<skills>
+	<skill id="3552" level="1"/>
+	</skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912140" name="Legendary Stormer">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3599" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912141" name="Legendary Stormer" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912142" name="Legendary Stormer" add_name="Guidance">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3602" level="10"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912143" name="Legendary Stormer" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.stormer_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3601" level="10"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912150" name="Legendary Thrower">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+	<set name="kamael_convert" value="912180"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912151" name="Legendary Thrower" add_name="Cheap Shot">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+	<set name="kamael_convert" value="912181"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8312" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.92"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="912152" name="Legendary Thrower" add_name="Focus">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="912182"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912153" name="Legendary Thrower" add_name="Crt. Slow">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.thrower_of_legend"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="912183"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="3" type="CRIT" chance="100"/>
+	</triggers>
+	<skills>
+	<skill id="3552" level="1"/>
+	</skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912160" name="Legendary Nagan">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912120"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912161" name="Legendary Nagan" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912121"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912162" name="Legendary Nagan" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912122"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912163" name="Legendary Nagan" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912123"/>
+    <set name="icon" value="LegendWeapons.Icons.as_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912170" name="Legendary Pincer">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912060"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912171" name="Legendary Pincer" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912061"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912172" name="Legendary Pincer" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912062"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912173" name="Legendary Pincer" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912063"/>
+    <set name="icon" value="LegendWeapons.Icons.rapier_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8289" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912180" name="Vesper Shooter ">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912150"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912181" name="Vesper Shooter " add_name="Cheap Shot">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912151"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3360" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.88"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="912182" name="Vesper Shooter " add_name="Focus">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912152"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912183" name="Vesper Shooter " add_name="Crt. Slow">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="912153"/>
+    <set name="icon" value="LegendWeapons.Icons.suitze_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="2" type="CRIT" chance="100"/>
+	</triggers>
+	<skills>
+	<skill id="3552" level="1"/>
+	</skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="912190" name="Legendary Dual Daggers">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="8233"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.dualshaper_of_legend"/>
+    <set name="price" value="171530000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALDAGGER"/>
+    <set name="weight" value="2050"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <enchant4_skill id="8298" level="1"/>
+    <!--Special Ability Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="912191" name="Legendary Dual Swords">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="LegendWeapons.Icons.dualsword_of_legend"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <enchant4_skill id="3411" level="1"/>
+    <!--Special Ability: Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+</list>

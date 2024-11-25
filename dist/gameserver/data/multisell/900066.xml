@@ -1,0 +1,325 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- GM SHOP - S Grade Armors  -->
+<list>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="800" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="34000000" id="57" />
+		<!-- Imperial Crusader Breastplate -->
+		<production count="1" id="6373" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="800" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="16000000" id="57" />
+		<!-- Imperial Crusader Gaiters -->
+		<production count="1" id="6374" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="350" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="35" id="95110" />
+		<!-- Adena -->
+		<ingredient count="30000000" id="57" />
+		<!-- Imperial Crusader Helmet -->
+		<production count="1" id="6378" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="250" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="25000000" id="57" />
+		<!-- Imperial Crusader Gloves -->
+		<production count="1" id="6375" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="250" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="25000000" id="57" />
+		<!-- Imperial Crusader Boots -->
+		<production count="1" id="6376" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="150" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="15" id="95110" />
+		<ingredient count="13867234" id="57" />
+		<!-- Imperial Crusader Shield -->
+		<production count="1" id="6377" />
+	</item>
+
+
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="1600" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="50" id="95110" />
+		<!-- Adena -->
+		<ingredient count="50000000" id="57" />
+		<!-- Draconic Leather Armor -->
+		<production count="1" id="6379" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="350" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="35" id="95110" />
+		<!-- Adena -->
+		<ingredient count="30000000" id="57" />
+		<!-- Draconic Leather Helmet -->
+		<production count="1" id="6382" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="250" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="25000000" id="57" />
+		<!-- Draconic Leather Gloves -->
+		<production count="1" id="6380" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="250" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="25000000" id="57" />
+		<!-- Draconic Leather Boots -->
+		<production count="1" id="6381" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="1600" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="50" id="95110" />
+		<!-- Adena -->
+		<ingredient count="50000000" id="57" />
+		<!-- Major Arcana Robe -->
+		<production count="1" id="6383" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="350" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="35" id="95110" />
+		<!-- Adena -->
+		<ingredient count="30000000" id="57" />
+		<!-- Major Arcana Circlet -->
+		<production count="1" id="6386" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="250" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="25000000" id="57" />
+		<!-- Major Arcana Gloves -->
+		<production count="1" id="6384" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="350" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="25" id="95110" />
+		<!-- Adena -->
+		<ingredient count="25000000" id="57" />
+		<!-- Major Arcana Boots -->
+		<production count="1" id="6385" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="150" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="15" id="95110" />
+		
+		<ingredient count="13867234" id="57" />
+		<!-- Arcana Sigil -->
+		<production count="1" id="12811" />
+	</item>
+		<item>
+		<!-- Farm Coin -->
+		<ingredient count="1000" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="100" id="95110" />
+		<!-- Adena -->
+		<ingredient count="54000000" id="57" />
+		<!-- Aurum Heavy Breastplate -->
+		<production count="1" id="885000" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="1000" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="100" id="95110" />
+		<!-- Adena -->
+		<ingredient count="32000000" id="57" />
+		<!-- Aurum Heavy Gaiters -->
+		<production count="1" id="885001" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="750" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="90" id="95110" />
+		<!-- Adena -->
+		<ingredient count="30000000" id="57" />
+		<!-- Aurum Heavy Helmet -->
+		<production count="1" id="885004" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="500" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="80" id="95110" />
+		<!-- Adena -->
+		<ingredient count="28000000" id="57" />
+		<!-- Aurum Heavy Gloves -->
+		<production count="1" id="885002" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="500" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="80" id="95110" />
+		<!-- Adena -->
+		<ingredient count="28000000" id="57" />
+		<!-- Aurum Heavy Boots -->
+		<production count="1" id="885003" />
+	</item>
+		<item>
+		<!-- Farm Coin -->
+		<ingredient count="1000" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="100" id="95110" />
+		<!-- Adena -->
+		<ingredient count="54000000" id="57" />
+		<!-- Aurum Light Breastplate -->
+		<production count="1" id="885005" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="1000" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="100" id="95110" />
+		<!-- Adena -->
+		<ingredient count="32000000" id="57" />
+		<!-- Aurum Light Gaiters -->
+		<production count="1" id="885006" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="750" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="90" id="95110" />
+		<!-- Adena -->
+		<ingredient count="30000000" id="57" />
+		<!-- Aurum Light Helmet -->
+		<production count="1" id="885009" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="500" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="80" id="95110" />
+		<!-- Adena -->
+		<ingredient count="28000000" id="57" />
+		<!-- Aurum Light Gloves -->
+		<production count="1" id="885007" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="500" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="80" id="95110" />
+		<!-- Adena -->
+		<ingredient count="28000000" id="57" />
+		<!-- Aurum Light Boots -->
+		<production count="1" id="885008" />
+	</item>
+		<item>
+		<!-- Farm Coin -->
+		<ingredient count="1000" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="100" id="95110" />
+		<!-- Adena -->
+		<ingredient count="54000000" id="57" />
+		<!-- Aurum Robe Breastplate -->
+		<production count="1" id="885010" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="1000" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="100" id="95110" />
+		<!-- Adena -->
+		<ingredient count="32000000" id="57" />
+		<!-- Aurum Robe Gaiters -->
+		<production count="1" id="885011" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="750" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="90" id="95110" />
+		<!-- Adena -->
+		<ingredient count="30000000" id="57" />
+		<!-- Aurum Robe Helmet -->
+		<production count="1" id="885014" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="500" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="80" id="95110" />
+		<!-- Adena -->
+		<ingredient count="28000000" id="57" />
+		<!-- Aurum Robe Gloves -->
+		<production count="1" id="885012" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="500" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="80" id="95110" />
+		<!-- Adena -->
+		<ingredient count="28000000" id="57" />
+		<!-- Aurum Robe Boots -->
+		<production count="1" id="885013" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="200" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="30" id="95110" />
+		
+		<ingredient count="13867234" id="57" />
+		<!-- Aurum Shield -->
+		<production count="1" id="911101" />
+	</item>
+	<item>
+		<!-- Farm Coin -->
+		<ingredient count="200" id="95106" />
+		<!-- Champion Coin -->
+		<ingredient count="30" id="95110" />
+		
+		<ingredient count="13867234" id="57" />
+		<!-- Aurum Sigil -->
+		<production count="1" id="911105" />
+	</item>
+</list>

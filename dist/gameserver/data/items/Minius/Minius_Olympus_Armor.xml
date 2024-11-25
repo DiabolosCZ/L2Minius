@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<!-- Faunus Armor Stats -->
+<list>
+	<armor id="800033" name="Olympus Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_helm_heavy_2"/> 
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="125" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800038" name="Olympus Leather Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_helm_leather_2"/> 
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="125" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800043" name="Olympus Circlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_helm_robe_2"/> 
+		<equip>
+			<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="125" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800034" name="Olympus Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_body_heavy_2"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="46668000" />
+		<for>
+			<add stat="pDef" order="0x10" value="310" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800039" name="Olympus Leather Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_I_body_leather_2"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="35000000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="242" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800044" name="Olympus Tunic">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_body_robe_2"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="182" />
+			<add stat="maxMp" order="0x10" value="649" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<!-- PvP Armor -->
+	<armor id="880034" name="Olympus Breastplate  - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_body_heavy_2"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="46668000" />
+		<for>
+			<add stat="pDef" order="0x10" value="310" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="880039" name="Olympus Leather Breastplate - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_I_body_leather_2"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="35000000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="242" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="880044" name="Olympus Tunic - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_body_robe_2"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="182" />
+			<add stat="maxMp" order="0x10" value="649" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<!-- PvP Armor -->
+	
+	<armor id="800035" name="Olympus Gaiter">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_legs_heavy_2"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1400" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="3170" />
+		<set name="price" value="29168000" />
+		<for>
+			<add stat="pDef" order="0x10" value="194" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800040" name="Olympus Leather Legging">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_legs_leather_2"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1320" />
+		<set name="price" value="21876000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="163" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800045" name="Olympus Stockings">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_legs_robe_2"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="850" />
+		<set name="price" value="21876000" />
+		<for>
+			<add stat="pDef" order="0x10" value="132" />
+			<add stat="maxMp" order="0x10" value="427" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800036" name="Olympus Gauntlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_gloves_heavy_2"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="95" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800041" name="Olympus Leather Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_gloves_leather_2"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="95" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800046" name="Olympus Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_gloves_robe_2"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="95" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800037" name="Olympus Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_feet_heavy_2"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="95" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800042" name="Olympus Leather Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_feet_leather_2"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="95" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="800047" name="Olympus Shoes">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_feet_robe_2"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="95" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>	
+	<armor id="800048" name="Olympus's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="icon" value="Dods_OV_i_etc.dods_i_cloak_2"/> 
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+		<skills>
+      <skill id="21242" level="1"/>
+    </skills>
+		<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>	
+</list>

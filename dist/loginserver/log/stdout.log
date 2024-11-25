@@ -1,0 +1,21 @@
+[12:36:15]  INFO Loaded 127 server names
+[12:36:15]  INFO ============================================================================
+[12:36:15]  INFO Název: ............................................... LOGIN SERVER
+[12:36:15]  INFO Revize projektu: ................................... Lineage ][ Minius
+[12:36:15]  INFO Aktualizace: ............................................. High Five: Part 5
+[12:36:15]  INFO Číslo revize:.................................. 2.0
+[12:36:15]  INFO Revize sestavení: ..................................... Minius V2024
+[12:36:15]  INFO Datum výstavby: ......................................... 2024.11.17 20:44
+[12:36:15]  INFO Verze kompilátoru: ................................... 17.0.11+7-LTS-207 (Oracle Corporation)
+[12:36:15]  INFO Vytvořeno: ............................................. © MiniusStudio
+[12:36:15]  INFO Developeři: ............................................. Diabolos
+[12:36:15]  INFO ============================================================================
+[12:36:15]  INFO Loaded whirlpool2 as default crypt.
+[12:36:16]  INFO Cached 10 KeyPairs for RSA communication
+[12:36:16]  INFO Stored 20 keys for Blowfish communication
+[12:36:16]  INFO Loaded 0 registered GameServer(s).
+[12:36:16]  INFO Listening for gameservers on 46.36.39.157:9014
+[12:36:16]  INFO Listening for clients on 46.36.39.157:2106
+[12:36:16]  INFO Login Server will automatically restart in 7200 seconds!
+[12:36:20]  INFO Trying to register gameserver: 1 [46.36.39.157]
+[12:36:20]  INFO Gameserver registration successful.

@@ -1,0 +1,818 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	 <config showall="false" notax="true" keepenchanted="true"/> 
+	
+	<!-- Minius Customs -->
+	
+	<item>
+		<ingredient count="1000" id="95106" />
+		<ingredient count="150" id="95110" />
+        <ingredient count="2" id="15720" />
+		<!-- Minius Basic Ring -->
+        <production count="1" id="97104" />
+    </item>
+	<item>
+		<ingredient count="1250" id="95106" />
+		<ingredient count="200" id="95110" />
+        <ingredient count="2" id="15721" />
+		<!-- Minius Basic Erring -->
+        <production count="1" id="97103" />
+    </item>
+	<item>
+		<ingredient count="1500" id="95106" />
+		<ingredient count="250" id="95110" />
+		<ingredient count="1" id="15722" />
+		<!-- Minius Basic Necklace -->
+        <production count="1" id="97105" />
+    </item>
+		
+	<item>
+		<ingredient count="1250" id="95106" />
+		<ingredient count="250" id="95110" />
+		<ingredient count="2" id="95112" />
+        <ingredient count="2" id="15717" />
+		<!-- Minius Ultimate Ring -->
+        <production count="1" id="97101" />
+    </item>
+	<item>
+		<ingredient count="1500" id="95106" />
+		<ingredient count="300" id="95110" />
+		<ingredient count="2" id="95112" />
+        <ingredient count="2" id="15718" />
+		<!-- Minius Ultimate Erring -->
+        <production count="1" id="97100" />
+    </item>
+	<item>
+		<ingredient count="1750" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="2" id="95112" />
+        <ingredient count="1" id="15719" />
+		<!-- Minius Ultimate Necklace -->
+        <production count="1" id="97102" />
+    </item>
+	
+	<item>
+		<ingredient count="1500" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="3" id="95112" />
+        <ingredient count="1" id="3563" />
+		<!-- Minius Legendary Ring -->
+        <production count="1" id="97107" />
+    </item>
+	<item>
+		<ingredient count="1850" id="95106" />
+		<ingredient count="400" id="95110" />
+		<ingredient count="3" id="95112" />
+        <ingredient count="1" id="6661" />
+		<!-- Minius Legendary Erring -->
+        <production count="1" id="97106" />
+    </item>
+	<item>
+		<ingredient count="2000" id="95106" />
+		<ingredient count="450" id="95110" />
+		<ingredient count="3" id="95112" />
+        <ingredient count="1" id="8191" />
+		<!-- Minius Legendary Necklace -->
+        <production count="1" id="97108" />
+    </item>
+	
+	<item>
+		<ingredient count="2500" id="95106" />
+		<ingredient count="625" id="95110" />
+		<ingredient count="2" id="95112" />
+        <ingredient count="1" id="6660" />
+		<!-- Minius Ultimate Zaken Erring -->
+        <production count="1" id="97109" />
+    </item>
+
+	<item>
+		<ingredient count="3500" id="95106" />
+		<ingredient count="1050" id="95110" />
+		<ingredient count="5" id="95112" />
+        <ingredient count="1" id="6660" />
+		<!-- Minius Legendary Queen Ring -->
+        <production count="1" id="97112" />
+    </item>
+	<item>
+		<ingredient count="3500" id="95106" />
+		<ingredient count="1050" id="95110" />
+		<ingredient count="5" id="95112" />
+        <ingredient count="1" id="6658" />
+		<!-- Minius Legendary Baium Ring -->
+        <production count="1" id="97111" />
+    </item>
+	<item>
+		<ingredient count="4250" id="95106" />
+		<ingredient count="1150" id="95110" />
+		<ingredient count="5" id="95112" />
+        <ingredient count="1" id="21712" />
+		<!-- Minius Legendary Zaken Erring -->
+        <production count="1" id="97110" />
+    </item>
+	<item>
+		<ingredient count="5000" id="95106" />
+		<ingredient count="1250" id="95110" />
+		<ingredient count="5" id="95112" />
+        <ingredient count="1" id="6657" />
+		<!-- Minius Legendary Green Necklace -->
+        <production count="1" id="97113" />
+   </item> 
+   
+   	<item>
+		<!-- Balrog Shaper -->
+		<production id="950000" count="1"/>
+		<!-- Legendary Shaper -->
+		<ingredient id="912050" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Shaper - Critical Damage -->
+		<production id="950001" count="1"/>
+		<!-- Legendary Shaper - Critical Damage -->
+		<ingredient id="912051" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Shaper - HP Drain -->
+		<production id="950002" count="1"/>
+		<!-- Legendary Shaper - HP Drain -->
+		<ingredient id="912052" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Shaper - Haste -->
+		<production id="950003" count="1"/>
+		<!-- Legendary Shaper - Haste -->
+		<ingredient id="912053" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Cutter -->
+		<production id="950004" count="1"/>
+		<!-- Legendary Cutter -->
+		<ingredient id="912060" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Cutter - Haste -->
+		<production id="950005" count="1"/>
+		<!-- Legendary Cutter - Haste -->
+		<ingredient id="912061" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Cutter - Health -->
+		<production id="950006" count="1"/>
+		<!-- Legendary Cutter - Health -->
+		<ingredient id="912062" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Cutter - Focus -->
+		<production id="950007" count="1"/>
+		<!-- Legendary Cutter - Focus -->
+		<ingredient id="912063" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Avenger -->
+		<production id="950008" count="1"/>
+		<!-- Legendary Avenger -->
+		<ingredient id="912070" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Avenger - HP Drain -->
+		<production id="950009" count="1"/>
+		<!-- Legendary Avenger - HP Drain -->
+		<ingredient id="912071" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Avenger - Health -->
+		<production id="950010" count="1"/>
+		<!-- Legendary Avenger - Health -->
+		<ingredient id="912072" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Avenger - HP Regeneration -->
+		<production id="950011" count="1"/>
+		<!-- Legendary Avenger - HP Regeneration -->
+		<ingredient id="912073" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Buster -->
+		<production id="950012" count="1"/>
+		<!-- Legendary Buster -->
+		<ingredient id="912090" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Buster - Mana Up -->
+		<production id="950013" count="1"/>
+		<!-- Legendary Buster - Mana Up -->
+		<ingredient id="912091" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Buster - Acumen -->
+		<production id="950014" count="1"/>
+		<!-- Legendary Buster - Acumen -->
+		<ingredient id="912092" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Buster - Magic Hold -->
+		<production id="950015" count="1"/>
+		<!-- Legendary Buster - Magic Hold -->
+		<ingredient id="912093" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Caster -->
+		<production id="950016" count="1"/>
+		<!-- Legendary Caster -->
+		<ingredient id="912100" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Caster - Acumen -->
+		<production id="950017" count="1"/>
+		<!-- Legendary Caster - Acumen -->
+		<ingredient id="912101" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Caster - MP Regeneration -->
+		<production id="950018" count="1"/>
+		<!-- Legendary Caster - MP Regeneration -->
+		<ingredient id="912102" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Caster - Mana Up -->
+		<production id="950019" count="1"/>
+		<!-- Legendary Caster - Mana Up -->
+		<ingredient id="912103" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Retributer -->
+		<production id="950020" count="1"/>
+		<!-- Legendary Retributer -->
+		<ingredient id="912110" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Retributer - HP Regeneration -->
+		<production id="950021" count="1"/>
+		<!-- Legendary Retributer - HP Regeneration -->
+		<ingredient id="912111" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Retributer - Health -->
+		<production id="950022" count="1"/>
+		<!-- Legendary Retributer - Health -->
+		<ingredient id="912112" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Retributer - HP Drain -->
+		<production id="950023" count="1"/>
+		<!-- Legendary Retributer - HP Drain -->
+		<ingredient id="912113" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Slasher -->
+		<production id="950024" count="1"/>
+		<!-- Legendary Slasher -->
+		<ingredient id="912120" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Slasher - Haste -->
+		<production id="950025" count="1"/>
+		<!-- Legendary Slasher - Haste -->
+		<ingredient id="912121" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Slasher - Health -->
+		<production id="950026" count="1"/>
+		<!-- Legendary Slasher - Health -->
+		<ingredient id="912122" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Slasher - Focus -->
+		<production id="950027" count="1"/>
+		<!-- Legendary Slasher - Focus -->
+		<ingredient id="912123" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Crusher -->
+		<production id="950028" count="1"/>
+		<!-- Legendary Slasher -->
+		<ingredient id="912120" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Crusher - HP Regeneration -->
+		<production id="950029" count="1"/>
+		<!-- Legendary Slasher - Haste -->
+		<ingredient id="912121" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Crusher - Health -->
+		<production id="950030" count="1"/>
+		<!-- Legendary Slasher - Health -->
+		<ingredient id="912122" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Crusher - HP Drain -->
+		<production id="950031" count="1"/>
+		<!-- Legendary Slasher - Focus -->
+		<ingredient id="912123" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Fighter -->
+		<production id="950032" count="1"/>
+		<!-- Legendary Fighter -->
+		<ingredient id="912130" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Fighter - Focus -->
+		<production id="950033" count="1"/>
+		<!-- Legendary Fighter - Focus -->
+		<ingredient id="912131" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Fighter - Health -->
+		<production id="950034" count="1"/>
+		<!-- Legendary Fighter - Health -->
+		<ingredient id="912132" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Fighter - Critical Stun -->
+		<production id="950035" count="1"/>
+		<!-- Legendary Fighter - Critical Stun -->
+		<ingredient id="912133" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Stormer -->
+		<production id="950036" count="1"/>
+		<!-- Legendary Stormer -->
+		<ingredient id="912140" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Stormer - Health -->
+		<production id="950037" count="1"/>
+		<!-- Legendary Stormer - Health -->
+		<ingredient id="912141" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Stormer - Guidance -->
+		<production id="950038" count="1"/>
+		<!-- Legendary Stormer - Guidance -->
+		<ingredient id="912142" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Stormer - Haste -->
+		<production id="950039" count="1"/>
+		<!-- Legendary Stormer - Haste -->
+		<ingredient id="912143" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Thrower -->
+		<production id="950040" count="1"/>
+		<!-- Legendary Thrower -->
+		<ingredient id="912150" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Thrower - Cheap Shot -->
+		<production id="950041" count="1"/>
+		<!-- Legendary Thrower - Cheap Shot -->
+		<ingredient id="912151" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Thrower - Focus -->
+		<production id="950042" count="1"/>
+		<!-- Legendary Thrower - Focus -->
+		<ingredient id="912152" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Thrower - Critical Slow -->
+		<production id="950043" count="1"/>
+		<!-- Legendary Thrower - Critical Slow -->
+		<ingredient id="912153" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Nagan -->
+		<production id="950044" count="1"/>
+		<!-- Legendary Nagan -->
+		<ingredient id="912160" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Nagan - Haste -->
+		<production id="950045" count="1"/>
+		<!-- Legendary Nagan - Haste -->
+		<ingredient id="912161" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Nagan - Health -->
+		<production id="950046" count="1"/>
+		<!-- Legendary Nagan - Health -->
+		<ingredient id="912162" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Nagan - Focus -->
+		<production id="950047" count="1"/>
+		<!-- Legendary Nagan - Focus -->
+		<ingredient id="912163" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Pincer -->
+		<production id="950048" count="1"/>
+		<!-- Legendary Pincer -->
+		<ingredient id="912170" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Pincer - Haste -->
+		<production id="950049" count="1"/>
+		<!-- Legendary Pincer - Haste -->
+		<ingredient id="912171" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Pincer - Health -->
+		<production id="950050" count="1"/>
+		<!-- Legendary Pincer - Health -->
+		<ingredient id="912172" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Pincer - Focus -->
+		<production id="950051" count="1"/>
+		<!-- Legendary Pincer - Focus -->
+		<ingredient id="912173" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Shooter -->
+		<production id="950052" count="1"/>
+		<!-- Legendary Shooter -->
+		<ingredient id="912180" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Shooter - Cheap Shot -->
+		<production id="950053" count="1"/>
+		<!-- Legendary Shooter - Cheap Shot -->
+		<ingredient id="912181" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Shooter - Focus -->
+		<production id="950054" count="1"/>
+		<!-- Legendary Shooter - Focus -->
+		<ingredient id="912182" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Shooter - Critical Slow -->
+		<production id="950055" count="1"/>
+		<!-- Legendary Shooter - Critical Slow -->
+		<ingredient id="912183" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Dual Daggers -->
+		<production id="950056" count="1"/>
+		<!-- Legendary Dual Daggers -->
+		<ingredient id="912190" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+	<item>
+		<!-- Balrog Dual Swords -->
+		<production id="950057" count="1"/>
+		<!-- Legendary Dual Swords -->
+		<ingredient id="912191" count="1"/>
+		<!-- Minius Farm Coin -->
+		<ingredient count="10000" id="95106" />
+		<!-- Minius Champion Coin -->
+		<ingredient count="5000" id="95110" />
+ 		<!-- Gemstone S -->
+		<ingredient count="2550" id="2134" />
+	</item>
+
+</list>

@@ -1,0 +1,16 @@
+<!DOCTYPE list SYSTEM "instances.dtd">
+<list>
+    <!-- PoseidonArmor Instance -->
+    <instance id="8004" name="PoseidonArmor" maxChannels="1" collapseIfEmpty="10" timelimit="120">
+        <collapse on-party-dismiss="true" timer="60"/>
+        <level min="75" max="85"/>
+        <party min="1" max="9"/>
+        <return loc="150000 150000 -5000"/>
+        <teleport loc="150000 150000 -5000"/>
+
+        <geodata map="24_22"/>
+        <doors>
+            <!-- Pokud jsou potřeba dveře, mohou být přidány zde -->
+        </doors>
+    </instance>
+</list>

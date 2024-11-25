@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+<etcitem id="700000" name="Faunus Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700001" name="Faunus Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700002" name="Faunus Gaiter Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_gaiter_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700003" name="Faunus Gauntlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_gauntlet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700004" name="Faunus Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700005" name="Faunus Leather Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_leather_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700006" name="Faunus Leather Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_leather_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700007" name="Faunus Leather Legging Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_leather_legging_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700008" name="Faunus Leather Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700009" name="Faunus Leather Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_leather_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700010" name="Faunus Circlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_criclet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700011" name="Faunus Tunic Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_tunic_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700012" name="Faunus Stockings Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_tunic_stockings"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700013" name="Faunus Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700014" name="Faunus Shoes Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_shoes_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700015" name="Faunus Cloak Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_cloak_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700016" name="Heaven Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700017" name="Heaven Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700018" name="Heaven Gaiter Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_gaiter_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700019" name="Heaven Gauntlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_gauntlet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700020" name="Heaven Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700021" name="Heaven Leather Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_leather_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700022" name="Heaven Leather Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_leather_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700023" name="Heaven Leather Legging Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_leather_legging_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700024" name="Heaven Leather Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700025" name="Heaven Leather Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_leather_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700026" name="Heaven Circlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_criclet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700027" name="Heaven Tunic Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_tunic_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700028" name="Heaven Stockings Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_tunic_stockings"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700029" name="Heaven Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700030" name="Heaven Shoes Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_shoes_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700031" name="Heaven Cloak Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_cloak_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700032" name="Heaven Shield Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.heaven_shiled_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700033" name="Olympus Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700034" name="Olympus Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700035" name="Olympus Gaiter Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_gaiter_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700036" name="Olympus Gauntlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_gauntlet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700037" name="Olympus Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700038" name="Olympus Leather Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_leather_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700039" name="Olympus Leather Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_leather_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700040" name="Olympus Leather Legging Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_leather_legging_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700041" name="Olympus Leather Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700042" name="Olympus Leather Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_leather_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700043" name="Olympus Circlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_criclet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700044" name="Olympus Tunic Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_tunic_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700045" name="Olympus Stockings Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_tunic_stockings"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700046" name="Olympus Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700047" name="Olympus Shoes Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_shoes_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700048" name="Olympus Cloak Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_cloak_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700049" name="Poseidon Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700050" name="Poseidon Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700051" name="Poseidon Gaiter Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_gaiter_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700052" name="Poseidon Gauntlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_gauntlet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700053" name="Poseidon Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700054" name="Poseidon Leather Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_leather_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700055" name="Poseidon Leather Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_leather_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700056" name="Poseidon Leather Legging Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_leather_legging_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700057" name="Poseidon Leather Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700058" name="Poseidon Leather Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_leather_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700059" name="Poseidon Circlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_criclet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700060" name="Poseidon Tunic Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_tunic_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700061" name="Poseidon Stockings Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_tunic_stockings"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700062" name="Poseidon Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700063" name="Poseidon Shoes Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_shoes_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700064" name="Poseidon Cloak Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_cloak_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700083" name="Legendary Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700084" name="Legendary Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700085" name="Legendary Gaiter Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_gaiter_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700086" name="Legendary Gauntlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_gauntlet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700087" name="Legendary Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700088" name="Legendary Leather Helmet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_leather_helmet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700089" name="Legendary Leather Breastplate Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_leather_breastplate_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700090" name="Legendary Leather Legging Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_leather_legging_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700091" name="Legendary Leather Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700092" name="Legendary Leather Boots Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_leather_boots_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700093" name="Legendary Circlet Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_criclet_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700094" name="Legendary Tunic Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_tunic_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700095" name="Legendary Stockings Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_tunic_stockings"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700096" name="Legendary Gloves Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_gloves_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700097" name="Legendary Shoes Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_shoes_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700098" name="Legendary Cloak Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_cloak_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700099" name="Legendary Shield Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_shiled_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700165" name="Poseidon Shield Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_shiled_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700166" name="Poseidon Sigil Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.poseidon_sigil_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700116" name="Faunus Shield Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_shiled_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700117" name="Faunus Sigil Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.faunus_sigil_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700149" name="Olympus Shield Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_shiled_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700150" name="Olympus Sigil Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.olympus_sigil_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+<etcitem id="700099" name="Legendary Sigil Piece">
+<set name="class" value="PIECES"/>
+<set name="crystal_type" value="NONE"/>
+<set name="icon" value="L2MiniusIcon.legendary_sigil_piece"/>
+<set name="price" value="239800"/>
+<set name="stackable" value="true"/>
+<set name="type" value="MATERIAL"/>
+<set name="weight" value="60"/>
+</etcitem>
+</list>

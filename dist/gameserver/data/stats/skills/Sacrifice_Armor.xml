@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<skill id="888000" levels="1" name="Sacrifice Heavy Armor Set">
+		<set name="icon" val="sacrificeicon.armor_t1004_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.08" />
+			<add order="0x40" stat="STR" val="3" />
+			<sub order="0x40" stat="CON" val="2" />
+			<add order="0x40" stat="poisonResist" val="80" />
+			<add order="0x40" stat="bleedResist" val="80" />
+			<add order="0x40" stat="maxNoPenaltyLoad" val="5759" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+		</for>
+	</skill>
+	<skill id="888004" levels="1" name="Sacrifice Leather Armor Set">
+		<set name="icon" val="sacrificeicon.armor_t1005_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" val="222" />
+			<add order="0x40" stat="poisonResist" val="80" />
+			<add order="0x40" stat="bleedResist" val="80" />
+			<mul order="0x30" stat="regMp" val="1.08" />
+			<add order="0x40" stat="MEN" val="3" />
+			<sub order="0x40" stat="WIT" val="2" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+		</for>
+	</skill>
+	<skill id="888008" levels="1" name="Sacrifice Robe Armor Set">
+		<set name="icon" val="sacrificeicon.armor_t1006_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="runSpd" val="7" />
+			<add order="0x40" stat="WIT" val="3" />
+			<sub order="0x40" stat="MEN" val="2" />
+			<add order="0x40" stat="paralyzeResist" val="50" />
+			<mul order="0x30" stat="concentration" val="0.7" />
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			<mul order="0x30" stat="pDef" val="1.08" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+		</for>
+	</skill>
+	
+	<skill id="888013" levels="1" name="Sacrifice Heavy Armor Set {PvP} ">
+		<set name="icon" val="sacrificeicon.armor_t1004_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="pAtkSpd" val="1.08" />
+			<add order="0x40" stat="STR" val="3" />
+			<sub order="0x40" stat="CON" val="2" />
+			<add order="0x40" stat="poisonResist" val="80" />
+			<add order="0x40" stat="bleedResist" val="80" />
+			<add order="0x40" stat="maxNoPenaltyLoad" val="5759" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+	</skill>
+	<skill id="888014" levels="1" name="Sacrifice Leather Armor Set {PvP} ">
+		<set name="icon" val="sacrificeicon.armor_t1005_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="maxMp" val="222" />
+			<add order="0x40" stat="poisonResist" val="80" />
+			<add order="0x40" stat="bleedResist" val="80" />
+			<mul order="0x30" stat="regMp" val="1.08" />
+			<add order="0x40" stat="MEN" val="3" />
+			<sub order="0x40" stat="WIT" val="2" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+	</skill>
+	<skill id="888015" levels="1" name="Sacrifice Robe Armor Set {PvP} ">
+		<set name="icon" val="sacrificeicon.armor_t1006_ul_i00" />
+		<set name="magicLevel" val="1" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<add order="0x40" stat="runSpd" val="7" />
+			<add order="0x40" stat="WIT" val="3" />
+			<sub order="0x40" stat="MEN" val="2" />
+			<add order="0x40" stat="paralyzeResist" val="50" />
+			<mul order="0x30" stat="concentration" val="0.7" />
+			<mul order="0x30" stat="mAtkSpd" val="1.15" />
+			<mul order="0x30" stat="pDef" val="1.08" />
+			<add order="0x10" stat="openCloakSlot" val="1" /> <!-- Opens cloak slot -->
+			<mul order="0x30" stat="pvpPhysDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpPhysSkillDefenceBonus" val="1.05" />
+			<mul order="0x30" stat="pvpMagicSkillDefenceBonus" val="1.05" />
+		</for>
+	</skill>
+	
+	<skill id="888012" levels="1" name="Sacrifice Shield">
+		<set name="icon" val="icon.shield_dark_dragon_shield_i00" />
+		<set name="magicLevel" val="67" />
+		<set name="target" val="TARGET_SELF" />
+		<set name="skillType" val="BUFF" />
+		<set name="operateType" val="OP_PASSIVE" />
+		<for>
+			<mul order="0x30" stat="magicResist" val="1.02" />
+		</for>
+	</skill>
+</list>

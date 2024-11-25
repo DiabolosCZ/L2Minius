@@ -1,0 +1,21 @@
+[20.11.24 12:36:15:495]  INFO loginserver.Config: Loaded 127 server names
+[20.11.24 12:36:15:681]  INFO loginserver.AuthServer: ============================================================================
+[20.11.24 12:36:15:681]  INFO loginserver.AuthServer: Název: ............................................... LOGIN SERVER
+[20.11.24 12:36:15:681]  INFO loginserver.AuthServer: Revize projektu: ................................... Lineage ][ Minius
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: Aktualizace: ............................................. High Five: Part 5
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: Číslo revize:.................................. 2.0
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: Revize sestavení: ..................................... Minius V2024
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: Datum výstavby: ......................................... 2024.11.17 20:44
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: Verze kompilátoru: ................................... 17.0.11+7-LTS-207 (Oracle Corporation)
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: Vytvořeno: ............................................. © MiniusStudio
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: Developeři: ............................................. Diabolos
+[20.11.24 12:36:15:682]  INFO loginserver.AuthServer: ============================================================================
+[20.11.24 12:36:15:683]  INFO loginserver.Config: Loaded whirlpool2 as default crypt.
+[20.11.24 12:36:16:023]  INFO loginserver.Config: Cached 10 KeyPairs for RSA communication
+[20.11.24 12:36:16:038]  INFO loginserver.Config: Stored 20 keys for Blowfish communication
+[20.11.24 12:36:16:050]  INFO loginserver.GameServerManager: Loaded 0 registered GameServer(s).
+[20.11.24 12:36:16:066]  INFO loginserver.AuthServer: Listening for gameservers on 46.36.39.157:9014
+[20.11.24 12:36:16:066]  INFO loginserver.AuthServer: Listening for clients on 46.36.39.157:2106
+[20.11.24 12:36:16:069]  INFO loginserver.AuthServer: Login Server will automatically restart in 7200 seconds!
+[20.11.24 12:36:20:227]  INFO gspackets.AuthRequest: Trying to register gameserver: 1 [46.36.39.157]
+[20.11.24 12:36:20:228]  INFO gspackets.AuthRequest: Gameserver registration successful.

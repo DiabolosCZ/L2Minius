@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<!-- Aurum Armor Stats -->
+<list>
+	<armor id="885004" name="Aurum Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_helmet_i00"/> 
+		<equip>
+		<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="530" />
+		<set name="price" value="1750000" />
+		<for>
+			<add stat="pDef" order="0x10" value="100" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885009" name="Aurum Leather Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_leather_helmet_i00"/> 
+		<equip>
+		<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="530" />
+		<set name="price" value="1750000" />
+		<for>
+			<add stat="pDef" order="0x10" value="100" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885014" name="Aurum Circlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_circlet_i00"/> 
+		<equip>
+		<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="530" />
+		<set name="price" value="1750000" />
+		<for>
+			<add stat="pDef" order="0x10" value="100" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885000" name="Aurum Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t501_u_i00"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="4666800" />
+		<for>
+			<add stat="pDef" order="0x10" value="240" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885005" name="Aurum Leather Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t502_u_i00"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="3500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="180" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885010" name="Aurum Tunic">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t503_u_i00"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="3500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="130" />
+			<add stat="maxMp" order="0x10" value="649" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<!-- PvP Armor -->
+	<armor id="885015" name="Aurum Breastplate - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t501_u_i00"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="4666800" />
+		<for>
+			<add stat="pDef" order="0x10" value="240" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885016" name="Aurum Leather Breastplate - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t502_u_i00"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="3500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="180" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885017" name="Aurum Tunic - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t503_u_i00"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="3500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="130" />
+			<add stat="maxMp" order="0x10" value="649" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<!-- PvP Armor -->
+	
+	<armor id="885001" name="Aurum Gaiter">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t501_l_i00"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1400" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="3170" />
+		<set name="price" value="2916800" />
+		<for>
+			<add stat="pDef" order="0x10" value="165" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885006" name="Aurum Leather Legging">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t502_l_i00"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="1320" />
+		<set name="price" value="2187600" />
+		<for>
+			<add stat="pDef" order="0x10" value="126" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885011" name="Aurum Stockings">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t503_l_i00"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="850" />
+		<set name="price" value="2187600" />
+		<for>
+			<add stat="pDef" order="0x10" value="88" />
+			<add stat="maxMp" order="0x10" value="427" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885002" name="Aurum Gauntlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t501_g_i00"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="510" />
+		<set name="price" value="1166700" />
+		<for>
+			<add stat="pDef" order="0x10" value="78" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885007" name="Aurum Leather Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t502_g_i00"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="510" />
+		<set name="price" value="1166700" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="78" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885012" name="Aurum Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t503_g_i00"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="510" />
+		<set name="price" value="1166700" />
+		<for>
+			<add stat="pDef" order="0x10" value="78" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885003" name="Aurum Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t501_b_i00"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="1166700" />
+		<for>
+			<add stat="pDef" order="0x10" value="78" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885008" name="Aurum Leather Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t502_b_i00"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="1166700" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="82" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="885013" name="Aurum Shoes">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="Asuki_Aurum_Icon.armor_t503_b_i00"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="1166700" />
+		<for>
+			<add stat="pDef" order="0x10" value="78" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+		
+</list>

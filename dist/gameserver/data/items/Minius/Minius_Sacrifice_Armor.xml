@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<!-- Sacrifice Armor Stats -->
+<list>
+<!-- Sacrifice Heavy Armor Stats -->
+<armor id="888000" name="Sacrifice Heavy Armor" add_name="Heavy Armor Use">
+  <set name="crystal_count" value="463"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1004_ul_i00"/>
+  <set name="price" value="1189731"/>
+  <set name="type" value="HEAVY"/>
+  <set name="weight" value="9780"/>
+  <equip>
+    <slot id="FULL_ARMOR"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="300"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888001" name="Sacrifice Heavy Gauntlets" add_name="Heavy Armor Use">
+  <set name="crystal_count" value="71"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1004_g_i00"/>
+  <set name="price" value="890000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="580"/>
+  <equip>
+    <slot id="GLOVES"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="68"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888002" name="Sacrifice Heavy Boots" add_name="Heavy Armor Use">
+  <set name="crystal_count" value="71"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1004_b_i00"/>
+  <set name="price" value="890000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="1130"/>
+  <equip>
+    <slot id="FEET"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="68"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888003" name="Sacrifice Heavy Helmet" add_name="Heavy Armor Use">
+  <set name="crystal_count" value="107"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="HelmetTex.armor_helmet_i00"/>
+  <set name="price" value="1336000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="570"/>
+  <equip>
+    <slot id="HEAD"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="89"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<weapon id="888012" name="Sacrifice Shield" add_name="Heavy Armor Use">
+  <set name="crystal_count" value="114"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="icon.shield_dark_dragon_shield_i00"/>
+  <set name="price" value="1422000"/>
+  <set name="rnd_dam" value="0"/>
+  <set name="soulshots" value="0"/>
+  <set name="spiritshots" value="0"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="1180"/>
+  <equip>
+    <slot id="LEFT_HAND"/>
+  </equip>
+  <skills>
+    <skill id="888012" level="1"/>
+  </skills>
+  <for>
+    <add stat="sDef" order="0x10" value="256"/>
+    <add stat="rShld" order="0x10" value="20"/>
+    <add stat="rEvas" order="0x10" value="-8.0000"/>
+    <enchant stat="sDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</weapon>
+  
+<!-- Sacrifice Leather Armor Stats -->
+<armor id="888004" name="Sacrifice Leather Armor" add_name="Light Armor Use">
+  <set name="crystal_count" value="347"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1005_ul_i00"/>
+  <set name="price" value="1189731"/>
+  <set name="type" value="LIGHT"/>
+  <set name="weight" value="5400"/>
+  <equip>
+    <slot id="FULL_ARMOR"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="228"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888005" name="Sacrifice Leather Gauntlets" add_name="Light Armor Use">
+  <set name="crystal_count" value="71"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1005_g_i00"/>
+  <set name="price" value="890000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="580"/>
+  <equip>
+    <slot id="GLOVES"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="68"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888006" name="Sacrifice Leather Boots" add_name="Light Armor Use">
+  <set name="crystal_count" value="71"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1005_b_i00"/>
+  <set name="price" value="890000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="1130"/>
+  <equip>
+    <slot id="FEET"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="68"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888007" name="Sacrifice Leather Helmet" add_name="Light Armor Use">
+  <set name="crystal_count" value="107"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="HelmetTex.armor_helmet_i00"/>
+  <set name="price" value="1336000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="570"/>
+  <equip>
+    <slot id="HEAD"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="89"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+
+<!-- Sacrifice Robe Armor Stats -->
+<armor id="888008" name="Sacrifice Robe Armor" add_name="Robe Use">
+  <set name="crystal_count" value="347"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1006_ul_i00"/>
+  <set name="price" value="4341000"/>
+  <set name="type" value="MAGIC"/>
+  <set name="weight" value="2450"/>
+  <equip>
+    <slot id="FULL_ARMOR"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="189"/>
+    <add stat="maxMp" order="0x10" value="665"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888009" name="Sacrifice Robe Gloves" add_name="Robe Use">
+  <set name="crystal_count" value="71"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1006_g_i00"/>
+  <set name="price" value="890000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="580"/>
+  <equip>
+    <slot id="GLOVES"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="68"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888010" name="Sacrifice Robe Shoes" add_name="Robe Use">
+  <set name="crystal_count" value="71"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1006_b_i00"/>
+  <set name="price" value="890000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="1130"/>
+  <equip>
+    <slot id="FEET"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="68"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888011" name="Sacrifice Robe Criclet" add_name="Robe Use">
+  <set name="crystal_count" value="107"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="HoodTex.armor_Hood_i00"/>
+  <set name="price" value="1336000"/>
+  <set name="type" value="NONE"/>
+  <set name="weight" value="570"/>
+  <equip>
+    <slot id="HEAD"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="89"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+
+<armor id="888013" name="Sacrifice Heavy Armor {PvP} " add_name="Heavy Armor Use">
+  <set name="crystal_count" value="463"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1004_ul_i00"/>
+  <set name="price" value="1189731"/>
+  <set name="type" value="HEAVY"/>
+  <set name="weight" value="9780"/>
+  <equip>
+    <slot id="FULL_ARMOR"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="300"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888014" name="Sacrifice Leather Armor {PvP} " add_name="Light Armor Use">
+  <set name="crystal_count" value="347"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1005_ul_i00"/>
+  <set name="price" value="1189731"/>
+  <set name="type" value="LIGHT"/>
+  <set name="weight" value="5400"/>
+  <equip>
+    <slot id="FULL_ARMOR"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="228"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+<armor id="888015" name="Sacrifice Robe Armor {PvP} " add_name="Robe Use">
+  <set name="crystal_count" value="347"/>
+  <set name="crystal_type" value="A"/>
+  <set name="crystallizable" value="true"/>
+  <set name="icon" value="sacrificeicon.armor_t1006_ul_i00"/>
+  <set name="price" value="4341000"/>
+  <set name="type" value="MAGIC"/>
+  <set name="weight" value="2450"/>
+  <equip>
+    <slot id="FULL_ARMOR"/>
+  </equip>
+  <for>
+    <add stat="pDef" order="0x10" value="189"/>
+    <add stat="maxMp" order="0x10" value="665"/>
+    <enchant stat="pDef" order="0x0C" value="0"/>
+    <enchant stat="maxHp" order="0x80" value="0"/>
+  </for>
+</armor>
+</list>

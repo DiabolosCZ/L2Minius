@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<!-- Faunus Armor Stats -->
+<list>
+	<armor id="90100" name="Legendary Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Hhlm"/> 
+		<equip>
+		<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="150" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90105" name="Legendary Leather Helmet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Lhlm"/> 
+		<equip>
+		<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="150" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90110" name="Legendary Circlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Rhlm"/> 
+		<equip>
+		<slot id="HEAD"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="840" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="530" />
+		<set name="price" value="17500000" />
+		<for>
+			<add stat="pDef" order="0x10" value="150" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90101" name="Legendary Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Hcrs"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="46668000" />
+		<for>
+			<add stat="pDef" order="0x10" value="380" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90106" name="Legendary Leather Breastplate">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Lcrs"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="290" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90111" name="Legendary Tunic">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Rcrs"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="245" />
+			<add stat="maxMp" order="0x10" value="850" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	
+	<!-- PvP Armor -->
+	<armor id="99101" name="Legendary Breastplate - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Hcrs"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="2240" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="7520" />
+		<set name="price" value="46668000" />
+		<for>
+			<add stat="pDef" order="0x10" value="380" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="99106" name="Legendary Leather Breastplate - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Lcrs"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="4140" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="290" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="99111" name="Legendary Tunic - PvP">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Rcrs"/> 
+		<equip>
+			<slot id="CHEST"/>
+		</equip>
+		<set name="crystal_count" value="1680" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1750" />
+		<set name="price" value="35000000" />
+		<for>
+			<add stat="pDef" order="0x10" value="245" />
+			<add stat="maxMp" order="0x10" value="850" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<!-- PvP Armor -->
+	
+	<armor id="90102" name="Legendary Gaiter">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="HEAVY"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Hgtrs"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1400" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="3170" />
+		<set name="price" value="29168000" />
+		<for>
+			<add stat="pDef" order="0x10" value="220" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90107" name="Legendary Leather Legging">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="LIGHT"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Lgtrs"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1320" />
+		<set name="price" value="21876000" />
+		<for>
+			<add stat="pDef" order="0x10" value="195" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90112" name="Legendary Stockings">
+		<set name="crystallizable" value="true"/>
+		<set name="type" value="MAGIC"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Rgtrs"/> 
+		<equip>
+			<slot id="LEGS"/>
+		</equip>
+		<set name="crystal_count" value="1050" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="850" />
+		<set name="price" value="21876000" />
+		<for>
+			<add stat="pDef" order="0x10" value="182" />
+			<add stat="maxMp" order="0x10" value="632" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90103" name="Legendary Gauntlet">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Hgntls"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="115" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90108" name="Legendary Leather Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Lgntls"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="115" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90113" name="Legendary Gloves">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Rgntls"/> 
+		<equip>
+			<slot id="GLOVES"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="510" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="115" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90104" name="Legendary Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Hbts"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="115" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90109" name="Legendary Leather Boots">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Lbts"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+
+		<for>
+			<add stat="pDef" order="0x10" value="115" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90114" name="Legendary Shoes">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Rbts"/> 
+		<equip>
+			<slot id="FEET"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="560" />
+		<set name="crystal_type" value="S84"/>
+		<set name="weight" value="1070" />
+		<set name="price" value="11667000" />
+		<for>
+			<add stat="pDef" order="0x10" value="115" />
+			<enchant stat="pDef" order="0x0C" value="0"/>
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</armor>
+	<armor id="90120" name="Legendary's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="icon" value="LegendArmors.Icons.Lgn_Cloack"/> 
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+		<skills>
+      <skill id="21242" level="1"/>
+    </skills>
+		<attributes>
+      <attribute element="fire" value="10"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="10"/>
+      <attribute element="holy" value="10"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="90"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	<weapon id="90211" name="Legendary Shield">
+		<set name="crystallizable" value="true"/>
+		<set name="icon" value=" "/> 
+		<equip>
+			<slot id="LEFT_HAND"/>
+		</equip>
+		<set name="type" value="NONE"/>
+		<set name="crystal_count" value="588" />
+		<set name="crystal_type" value="S80"/>
+		<set name="weight" value="1130" />
+		<set name="price" value="12250000" />
+		<for>
+			<add stat="rEvas" order="0x10" value="-8.0000"/>
+			<add stat="sDef" order="0x10" value="505"/>
+			<add stat="rShld" order="0x10" value="20" />
+			<enchant stat="sDef" order="0x0C" value="0" />
+			<enchant stat="maxHp" order="0x80" value="0"/>
+		</for>
+	</weapon>
+</list>

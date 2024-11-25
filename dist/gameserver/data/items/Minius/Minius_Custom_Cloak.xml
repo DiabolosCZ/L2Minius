@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+<!-- Faunus Armor Stats -->
+<list>
+		
+	<armor id="58300" name="Faunus's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+		<armor id="45651" name="Faunus's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+		<armor id="45652" name="Faunus's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+		<armor id="45653" name="Faunus's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	
+	<armor id="31121" name="Draconic's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	
+	<armor id="31122" name="Vesper's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	
+	<armor id="31123" name="Elegia's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	
+	<armor id="31124" name="Vorpal's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	
+	<armor id="31125" name="Moirai's Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+		<set name="crystal_type" value="S80"/>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	
+	<armor id="98000" name="Minius Cloak">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	</armor>
+	
+	<armor id="98001" name="Minius Cloak 7 Hours">
+		<set name="enchantable" value="false"/>
+		<set name="type" value="NONE"/>
+		<set name="temporal" value="true"/>
+		<set name="tradeable" value="false"/>
+		<set name="freightable" value="false"/>
+		<set name="class" value="OTHER"/>
+		<set name="crystal_type" value="NONE"/>
+		<set name="dropable" value="false"/>
+		<set name="durability" value="420"/>
+		<equip>
+			<slot id="BACK"/>
+		</equip>
+
+		<set name="price" value="29674485" />
+		<set name="weight" value="220" />
+	<attributes>
+      <attribute element="fire" value="5"/>
+      <attribute element="water" value="10"/>
+      <attribute element="wind" value="10"/>
+      <attribute element="earth" value="5"/>
+      <attribute element="holy" value="5"/>
+      <attribute element="unholy" value="10"/>
+	</attributes>
+    <for>
+      <add stat="pDef" order="0x10" value="40"/>
+      <enchant stat="pDef" order="0x0C" value="0"/>
+      <enchant stat="maxHp" order="0x80" value="0"/>
+    </for>
+	<skills>
+      <skill id="980001" level="1"/>
+    </skills>
+	</armor>
+</list>

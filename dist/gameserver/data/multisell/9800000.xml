@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<list>
+	<!-- Soul Crystal - Stage 13 -->
+	<item>
+		<ingredient count="500" id="95106" />
+		<ingredient count="100" id="95110" />
+		<ingredient count="1000000" id="5575" />
+		<ingredient count="50000000" id="57" />
+		<production count="1" id="5914" />
+	</item>
+	<item>
+		<ingredient count="500" id="95106" />
+		<ingredient count="100" id="95110" />
+		<ingredient count="1000000" id="5575" />
+		<ingredient count="50000000" id="57" />
+		<production count="1" id="5911" />
+	</item>
+	<item>
+		<ingredient count="500" id="95106" />
+		<ingredient count="100" id="95110" />
+		<ingredient count="1000000" id="5575" />
+		<ingredient count="50000000" id="57" />
+		<production count="1" id="5908" />
+	</item>
+	
+	<!-- Soul Crystal - Stage 14 -->
+	<item>
+		<ingredient count="750" id="95106" />
+		<ingredient count="250" id="95110" />
+		<ingredient count="1500000" id="5575" />
+		<ingredient count="100000000" id="57" />
+		<production count="1" id="9571" />
+	</item>
+	<item>
+		<ingredient count="750" id="95106" />
+		<ingredient count="250" id="95110" />
+		<ingredient count="1500000" id="5575" />
+		<ingredient count="100000000" id="57" />
+		<production count="1" id="9572" />
+	</item>
+	<item>
+		<ingredient count="750" id="95106" />
+		<ingredient count="250" id="95110" />
+		<ingredient count="1500000" id="5575" />
+		<ingredient count="100000000" id="57" />
+		<production count="1" id="9570" />
+	</item>
+	
+	<!-- Soul Crystal - Stage 15 -->
+	<item>
+		<ingredient count="1000" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="2000000" id="5575" />
+		<ingredient count="150000000" id="57" />
+		<production count="1" id="10481" />
+	</item>
+	<item>
+		<ingredient count="1000" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="2000000" id="5575" />
+		<ingredient count="150000000" id="57" />
+		<production count="1" id="10482" />
+	</item>
+	<item>
+		<ingredient count="1000" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="2000000" id="5575" />
+		<ingredient count="150000000" id="57" />
+		<production count="1" id="10480" />
+	</item>
+	
+	<!-- Soul Crystal - Stage 16 -->
+	<item>
+		<ingredient count="1200" id="95106" />
+		<ingredient count="500" id="95110" />
+		<ingredient count="2500000" id="5575" />
+		<ingredient count="170000000" id="57" />
+		<production count="1" id="13072" />
+	</item>
+	<item>
+		<ingredient count="1200" id="95106" />
+		<ingredient count="500" id="95110" />
+		<ingredient count="2500000" id="5575" />
+		<ingredient count="170000000" id="57" />
+		<production count="1" id="13073" />
+	</item>
+	<item>
+		<ingredient count="1200" id="95106" />
+		<ingredient count="500" id="95110" />
+		<ingredient count="2500000" id="5575" />
+		<ingredient count="170000000" id="57" />
+		<production count="1" id="13071" />
+	</item>
+	
+	<!-- Soul Crystal - Stage 17 -->
+	<item>
+		<ingredient count="1" id="13072" />
+		<ingredient count="800" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="1500000" id="5575" />
+		<ingredient count="170000000" id="57" />
+		<production count="1" id="15542" />
+	</item>
+	<item>
+		<ingredient count="1" id="13073" />
+		<ingredient count="800" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="1500000" id="5575" />
+		<ingredient count="170000000" id="57" />
+		<production count="1" id="15543" />
+	</item>
+	<item>
+		<ingredient count="1" id="13071" />
+		<ingredient count="800" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="1500000" id="5575" />
+		<ingredient count="170000000" id="57" />
+		<production count="1" id="15541" />
+	</item>
+	
+	<!-- Soul Crystal - Stage 18 -->
+	<item>
+		<ingredient count="1" id="15542" />
+		<ingredient count="800" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="2000000" id="5575" />
+		<ingredient count="200000000" id="57" />
+		<production count="1" id="15827" />
+	</item>
+	<item>
+		<ingredient count="1" id="15543" />
+		<ingredient count="800" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="2000000" id="5575" />
+		<ingredient count="200000000" id="57" />
+		<production count="1" id="15828" />
+	</item>
+	<item>
+		<ingredient count="1" id="15541" />
+		<ingredient count="800" id="95106" />
+		<ingredient count="350" id="95110" />
+		<ingredient count="2000000" id="5575" />
+		<ingredient count="200000000" id="57" />
+		<production count="1" id="15826" />
+	</item>
+		
+</list>

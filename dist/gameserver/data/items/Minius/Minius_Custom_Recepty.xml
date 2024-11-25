@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+  <etcitem id="912000" name="Recipe - Mana Potion (100%)">
+    <set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="286712"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+  </etcitem>
+  <etcitem id="600000" name="Recipe - Faunus Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>	
+	</etcitem>
+	<etcitem id="600001" name="Recipe - Faunus Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>	
+	</etcitem>
+	<etcitem id="600002" name="Recipe - Faunus Gaiter (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>		
+	</etcitem>
+	<etcitem id="600003" name="Recipe - Faunus Gauntlet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600004" name="Recipe - Faunus Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600005" name="Recipe - Faunus Leather Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600006" name="Recipe - Faunus Leather Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600007" name="Recipe - Faunus Leather Legging (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600008" name="Recipe - Faunus Leather Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600009" name="Recipe - Faunus Leather Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600010" name="Recipe - Faunus Criclet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600011" name="Recipe - Faunus Tunic (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600012" name="Recipe - Faunus Stockings (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600013" name="Recipe - Faunus Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600014" name="Recipe - Faunus Shoes (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600015" name="Recipe - Faunus Cloak (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600016" name="Recipe - Heaven Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600017" name="Recipe - Heaven Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600018" name="Recipe - Heaven Gaiter (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600019" name="Recipe - Heaven Gauntlet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600020" name="Recipe - Heaven Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600021" name="Recipe - Heaven Leather Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600022" name="Recipe - Heaven Leather Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600023" name="Recipe - Heaven Leather Legging (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600024" name="Recipe - Heaven Leather Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600025" name="Recipe - Heaven Leather Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600026" name="Recipe - Heaven Criclet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600027" name="Recipe - Heaven Tunic (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600028" name="Recipe - Heaven Stockings (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600029" name="Recipe - Heaven Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600030" name="Recipe - Heaven Shoes (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600031" name="Recipe - Heaven Cloak (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600032" name="Recipe - Heaven Shield (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.heavenrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600033" name="Recipe - Olympus Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600034" name="Recipe - Olympus Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600035" name="Recipe - Olympus Gaiter (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600036" name="Recipe - Olympus Gauntlet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600037" name="Recipe - Olympus Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600038" name="Recipe - Olympus Leather Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600039" name="Recipe - Olympus Leather Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600040" name="Recipe - Olympus Leather Legging (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600041" name="Recipe - Olympus Leather Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600042" name="Recipe - Olympus Leather Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600043" name="Recipe - Olympus Criclet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600044" name="Recipe - Olympus Tunic (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600045" name="Recipe - Olympus Stockings (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600046" name="Recipe - Olympus Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600047" name="Recipe - Olympus Shoes (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600048" name="Recipe - Olympus Cloak (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600049" name="Recipe - Olympus Shield (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600050" name="Recipe - Olympus Sigil (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.olympusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600083" name="Recipe - Legendary Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600084" name="Recipe - Legendary Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600085" name="Recipe - Legendary Gaiter (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600086" name="Recipe - Legendary Gauntlet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600087" name="Recipe - Legendary Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600088" name="Recipe - Legendary Leather Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600089" name="Recipe - Legendary Leather Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600090" name="Recipe - Legendary Leather Legging (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600091" name="Recipe - Legendary Leather Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600092" name="Recipe - Legendary Leather Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600093" name="Recipe - Legendary Criclet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600094" name="Recipe - Legendary Tunic (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600095" name="Recipe - Legendary Stockings (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600096" name="Recipe - Legendary Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600097" name="Recipe - Legendary Shoes (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600098" name="Recipe - Legendary Cloak (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600099" name="Recipe - Legendary Shield (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600099" name="Recipe - Legendary Sigil (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.legendaryrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600049" name="Recipe - Poseidon Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600050" name="Recipe - Poseidon Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600051" name="Recipe - Poseidon Gaiter (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600052" name="Recipe - Poseidon Gauntlet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600053" name="Recipe - Poseidon Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600054" name="Recipe - Poseidon Leather Helmet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600055" name="Recipe - Poseidon Leather Breastplate (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600056" name="Recipe - Poseidon Leather Legging (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600057" name="Recipe - Poseidon Leather Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600058" name="Recipe - Poseidon Leather Boots (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600059" name="Recipe - Poseidon Criclet (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600060" name="Recipe - Poseidon Tunic (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600061" name="Recipe - Poseidon Stockings (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600062" name="Recipe - Poseidon Gloves (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600063" name="Recipe - Poseidon Shoes (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600064" name="Recipe - Poseidon Cloak (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600165" name="Recipe - Poseidon Shield (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600166" name="Recipe - Poseidon Sigil (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.poseidonrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600116" name="Recipe - Faunus Shield (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+	<etcitem id="600117" name="Recipe - Faunus Sigil (60%)">
+	<set name="class" value="RECIPIES"/>
+    <set name="crystal_type" value="NONE"/>
+    <set name="durability" value="90"/>
+    <set name="icon" value="L2MiniusIcon.faunusrecipe"/>
+    <set name="price" value="2867120"/>
+    <set name="stackable" value="true"/>
+    <set name="type" value="RECIPE"/>
+    <set name="weight" value="30"/>
+	</etcitem>
+</list>

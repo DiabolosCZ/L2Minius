@@ -1,0 +1,3954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE list SYSTEM "item.dtd">
+
+<list>
+	<weapon id="950000" name="Balrog Shaper">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950001" name="Balrog Shaper" add_name="Crt. Damage">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3572" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950002" name="Balrog Shaper" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3568" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950003" name="Balrog Shaper" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950004" name="Balrog Cutter">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900170"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950005" name="Balrog Cutter" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900171"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950006" name="Balrog Cutter" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900172"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950007" name="Balrog Cutter" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+	<set name="kamael_convert" value="900173"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	
+	<weapon id="950008" name="Balrog Avenger">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950009" name="Balrog Avenger" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3568" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950010" name="Balrog Avenger" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950011" name="Balrog Avenger" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3569" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950012" name="Balrog Buster">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950013" name="Balrog Buster" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950014" name="Balrog Buster" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950015" name="Balrog Buster" add_name="Magic Hold">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <triggers>
+      <trigger id="3577" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="20"/>
+    </triggers>
+    <skills>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950016" name="Balrog Caster">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950017" name="Balrog Caster" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950018" name="Balrog Caster" add_name="MP Regeneration">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3576" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950019" name="Balrog Caster" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950020" name="Balrog Retributer">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950021" name="Balrog Retributer" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3569" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950022" name="Balrog Retributer" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950023" name="Balrog Retributer" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3568" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950024" name="Balrog Slasher">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+	<set name="kamael_convert" value="900160"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950025" name="Balrog Slasher" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900161"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950026" name="Balrog Slasher" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900162"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950027" name="Balrog Slasher" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900163"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950028" name="Balrog Crusher">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950029" name="Balrog Crusher" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3569" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950030" name="Balrog Crusher" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950031" name="Balrog Crusher" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3568" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950032" name="Balrog Fighter">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950033" name="Balrog Fighter" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3565" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950034" name="Balrog Fighter" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950035" name="Balrog Fighter" add_name="Crt. Stun">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+	<skills>
+	<skill id="3552" level="1"/>
+	</skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950036" name="Balrog Stormer">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950037" name="Balrog Stormer" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950038" name="Balrog Stormer" add_name="Guidance">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3602" level="10"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950039" name="Balrog Stormer" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3601" level="10"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950040" name="Balrog Thrower">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+	<set name="kamael_convert" value="900180"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950041" name="Balrog Thrower" add_name="Cheap Shot">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+	<set name="kamael_convert" value="900181"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8312" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.92"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="950042" name="Balrog Thrower" add_name="Focus">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900182"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950043" name="Balrog Thrower" add_name="Crt. Slow">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900183"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="3" type="CRIT" chance="100"/>
+	</triggers>
+	<skills>
+      <skill id="3552" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950044" name="Balrog Nagan">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900120"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950045" name="Balrog Nagan" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900121"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950046" name="Balrog Nagan" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900122"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950047" name="Balrog Nagan" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900123"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950048" name="Balrog Pincer">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900060"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950049" name="Balrog Pincer" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900061"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3068" level="3"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950050" name="Balrog Pincer" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900062"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950051" name="Balrog Pincer" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900063"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="8289" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950052" name="Balrog Shooter">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900150"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950053" name="Balrog Shooter" add_name="Cheap Shot">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900151"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3360" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.88"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="950054" name="Balrog Shooter" add_name="Focus">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900152"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3566" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950055" name="Balrog Shooter" add_name="Crt. Slow">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900153"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="2" type="CRIT" chance="100"/>
+	</triggers>
+	<skills>
+      <skill id="3552" level="3"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950056" name="Balrog Dual Daggers">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="8233"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDualDaggers"/>
+    <set name="price" value="171530000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALDAGGER"/>
+    <set name="weight" value="2050"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <enchant4_skill id="8298" level="1"/>
+    <!--Special Ability Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950057" name="Balrog Dual Swords">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDualSwords"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <enchant4_skill id="3411" level="1"/>
+    <!--Special Ability: Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+  
+	<!-- PvP Weapons -->  
+	<weapon id="950100" name="Balrog Shaper {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950101" name="Balrog Shaper {PvP}" add_name="Crt. Damage">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3572" level="2"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950102" name="Balrog Shaper {PvP}" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3568" level="2"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950103" name="Balrog Shaper {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDagger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DAGGER"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="458"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950104" name="Balrog Cutter {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900170"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950105" name="Balrog Cutter {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900171"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950106" name="Balrog Cutter {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900172"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950107" name="Balrog Cutter {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCutter"/>
+	<set name="kamael_convert" value="900173"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	
+	<weapon id="950108" name="Balrog Avenger {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950109" name="Balrog Avenger {PvP}" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3568" level="2"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950110" name="Balrog Avenger {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950111" name="Balrog Avenger {PvP}" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BAvenger"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3569" level="2"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950112" name="Balrog Buster {PvP}">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950113" name="Balrog Buster {PvP}" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950114" name="Balrog Buster {PvP}" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950115" name="Balrog Buster {PvP}" add_name="Magic Hold">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BBurster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="SWORD"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <triggers>
+      <trigger id="3577" level="2" type="OFFENSIVE_MAGICAL_SKILL_USE" chance="20"/>
+    </triggers>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950116" name="Balrog Caster {PvP}">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950117" name="Balrog Caster {PvP}" add_name="Acumen">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3047" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950118" name="Balrog Caster {PvP}" add_name="MP Regeneration">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3576" level="2"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950119" name="Balrog Caster {PvP}" add_name="Mana Up">
+    <set name="is_magic_weapon" value="true"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCaster"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BLUNT"/>
+    <set name="weight" value="1080"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3014" level="2"/>
+      <skill id="3552" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="420"/>
+      <add stat="mAtk" order="0x10" value="307"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="379"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950120" name="Balrog Retributer {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3653" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950121" name="Balrog Retributer {PvP}" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3569" level="2"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950122" name="Balrog Retributer {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950123" name="Balrog Retributer {PvP}" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRetributer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3568" level="2"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950124" name="Balrog Slasher {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+	<set name="kamael_convert" value="900160"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3653" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950125" name="Balrog Slasher {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900161"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950126" name="Balrog Slasher {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900162"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950127" name="Balrog Slasher {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900163"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSlasher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGSWORD"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950128" name="Balrog Crusher {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3653" level="1"/>
+      <skill id="3654" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950129" name="Balrog Crusher {PvP}" add_name="HP Regeneration">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3569" level="2"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950130" name="Balrog Crusher {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950131" name="Balrog Crusher {PvP}" add_name="HP Drain">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BCrusher"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="20"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BIGBLUNT"/>
+    <set name="weight" value="1740"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3568" level="2"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="511"/>
+      <add stat="mAtk" order="0x10" value="337"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950132" name="Balrog Fighter {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="4"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950133" name="Balrog Fighter {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3565" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950134" name="Balrog Fighter {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950135" name="Balrog Fighter {PvP}" add_name="Crt. Stun">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BFighter"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALFIST"/>
+    <set name="weight" value="1550"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="40"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="5.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950136" name="Balrog Stormer {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3599" level="1"/>
+      <skill id="3650" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950137" name="Balrog Stormer {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="4"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950138" name="Balrog Stormer {PvP}" add_name="Guidance">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3602" level="10"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950139" name="Balrog Stormer {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BStormer"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="POLE"/>
+    <set name="weight" value="2010"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3601" level="10"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950140" name="Balrog Thrower {PvP}">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+	<set name="kamael_convert" value="900180"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+      <skill id="3656" level="1"/>
+      <skill id="3657" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950141" name="Balrog Thrower {PvP}" add_name="Cheap Shot">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+	<set name="kamael_convert" value="900181"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+      <skill id="8312" level="2"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.92"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="950142" name="Balrog Thrower {PvP}" add_name="Focus">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900182"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="4"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950143" name="Balrog Thrower {PvP}" add_name="Crt. Slow">
+    <set name="atk_reuse" value="1500"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BThrower"/>
+    <set name="mp_consume" value="6"/>
+    <set name="price" value="143356000"/>
+	<set name="kamael_convert" value="900183"/>
+    <set name="rnd_dam" value="5"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="BOW"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="3" type="CRIT" chance="100"/>
+	</triggers>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="952"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="293"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950144" name="Balrog Nagan {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900120"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950145" name="Balrog Nagan {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900121"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950146" name="Balrog Nagan {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900122"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950147" name="Balrog Nagan {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900123"/>
+    <set name="icon" value="BalrogWeapons.Icons.BASword"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="15"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="ANCIENTSWORD"/>
+    <set name="weight" value="1800"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3566" level="3"/>
+      <skill id="3653" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="560"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="350"/>
+      <add stat="accCombat" order="0x10" value="2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950148" name="Balrog Pincer {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900060"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3650" level="1"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950149" name="Balrog Pincer {PvP}" add_name="Haste">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900061"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3068" level="3"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950150" name="Balrog Pincer {PvP}" add_name="Health">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900062"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3013" level="3"/>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950151" name="Balrog Pincer {PvP}" add_name="Focus">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900063"/>
+    <set name="icon" value="BalrogWeapons.Icons.BRapier"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="40"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="RAPIER"/>
+    <set name="weight" value="1280"/>
+    <equip>
+      <slot id="RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3650" level="1"/>
+      <skill id="8289" level="1"/>
+    </skills>
+    <enchant4_skill id="3426" level="1"/>
+    <!--Maximum Ability-->
+    <for>
+      <add stat="pAtk" order="0x10" value="483"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="406"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950152" name="Balrog Shooter {PvP}">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900150"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3653" level="1"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950153" name="Balrog Shooter {PvP}" add_name="Cheap Shot">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900151"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3360" level="1"/>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+      <mul stat="mpConsumePhysical" order="0x30" value="0.88"/>
+      <mul stat="pAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+      <mul stat="mAtk" order="0x30" value="1.05">
+        <target pvp="true"/>
+      </mul>
+    </for>
+  </weapon>
+	<weapon id="950154" name="Balrog Shooter {PvP}" add_name="Focus">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900152"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="1"/>
+      <skill id="3655" level="1"/>
+      <skill id="3566" level="4"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950155" name="Balrog Shooter {PvP}" add_name="Crt. Slow">
+    <set name="atk_reuse" value="400"/>
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+	<set name="kamael_convert" value="900153"/>
+    <set name="icon" value="BalrogWeapons.Icons.BSchutze"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="CROSSBOW"/>
+    <set name="weight" value="1580"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <triggers>
+		<trigger id="3574" level="2" type="CRIT" chance="100"/>
+	</triggers>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3655" level="1"/>
+    </skills>
+    <for>
+      <add stat="pAtk" order="0x10" value="574"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="100"/>
+      <set stat="atkBaseSpeed" order="0x08" value="303"/>
+      <add stat="accCombat" order="0x10" value="-2.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+	<weapon id="950156" name="Balrog Dual Daggers {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="8233"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDualDaggers"/>
+    <set name="price" value="171530000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUALDAGGER"/>
+    <set name="weight" value="2050"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3651" level="1"/>
+      <skill id="3652" level="1"/>
+    </skills>
+    <enchant4_skill id="8298" level="1"/>
+    <!--Special Ability Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="524"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="120"/>
+      <set stat="atkBaseSpeed" order="0x08" value="433"/>
+      <add stat="accCombat" order="0x10" value="-4.0000"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+	<weapon id="950157" name="Balrog Dual Swords {PvP}">
+    <set name="attributable" value="true"/>
+    <set name="augmentable" value="true"/>
+    <set name="crystal_count" value="7050"/>
+    <set name="crystal_type" value="S84"/>
+    <set name="crystallizable" value="true"/>
+    <set name="dropable" value="true"/>
+    <set name="icon" value="BalrogWeapons.Icons.BDualSwords"/>
+    <set name="price" value="143356000"/>
+    <set name="rnd_dam" value="10"/>
+    <set name="sellable" value="true"/>
+    <set name="soulshots" value="1"/>
+    <set name="spiritshots" value="1"/>
+    <set name="tradeable" value="true"/>
+    <set name="type" value="DUAL"/>
+    <set name="weight" value="1520"/>
+    <equip>
+      <slot id="LEFT_RIGHT_HAND"/>
+    </equip>
+    <skills>
+      <skill id="3552" level="3"/>
+      <skill id="3656" level="1"/>
+    </skills>
+    <enchant4_skill id="3411" level="1"/>
+    <!--Special Ability: Focus-->
+    <for>
+      <add stat="pAtk" order="0x10" value="638"/>
+      <add stat="mAtk" order="0x10" value="230"/>
+      <set stat="baseCrit" order="0x08" value="80"/>
+      <set stat="atkBaseSpeed" order="0x08" value="325"/>
+      <enchant stat="pAtk" order="0x0C" value="0"/>
+      <enchant stat="mAtk" order="0x0C" value="0"/>
+    </for>
+  </weapon>
+
+</list>

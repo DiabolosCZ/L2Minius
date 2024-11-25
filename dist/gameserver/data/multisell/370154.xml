@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Glitterings -->
+
+<list>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Elemental Stone -->
+		<production count="1" id="9546" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Elemental Stone -->
+		<production count="1" id="9547" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Elemental Stone -->
+		<production count="1" id="9548" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Elemental Stone -->
+		<production count="1" id="9549" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Elemental Stone -->
+		<production count="1" id="9550" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Elemental Stone -->
+		<production count="1" id="9551" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="25" id="95110" />
+
+		<!-- Scroll: Enchant Armor (B-Grade) -->
+		<production count="1" id="948" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="30" id="95110" />
+
+		<!-- Scroll: Enchant Weapon (B-Grade) -->
+		<production count="1" id="947" />
+	</item>
+
+
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="35" id="95110" />
+
+		<!-- Scroll: Enchant Armor (A-Grade) -->
+		<production count="1" id="730" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="40" id="95110" />
+
+		<!-- Scroll: Enchant Weapon (A-Grade) -->
+		<production count="1" id="729" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="45" id="95110" />
+
+		<!-- Scroll: Enchant Armor (S-Grade) -->
+		<production count="1" id="960" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Scroll: Enchant Weapon (S-Grade) -->
+		<production count="1" id="959" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="35" id="95110" />
+
+		<!-- Codex -->
+		<production count="1" id="6622" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="50" id="95110" />
+
+		<!-- Essence 1 -->
+		<production count="1" id="9451" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="300" id="95110" />
+
+		<!-- Essence 2 -->
+		<production count="1" id="10413" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="100" id="95110" />
+
+		<!-- DCS -->
+		<production count="1" id="5126" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="500" id="95110" />
+
+		<!-- Armor Box -->
+		<production count="1" id="13989" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="800" id="95110" />
+
+		<!-- Weapon Box -->
+		<production count="1" id="13988" />
+	</item>
+
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="350" id="95110" />
+
+		<!-- Red Strider -->
+		<production count="1" id="10308" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="350" id="95110" />
+
+		<!-- Red Strider -->
+		<production count="1" id="10309" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="350" id="95110" />
+
+		<!-- Red Strider -->
+		<production count="1" id="10310" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="400" id="95110" />
+
+		<!-- Fenrir -->
+		<production count="1" id="10426" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="700" id="95110" />
+
+		<!-- Snow Fenrir -->
+		<production count="1" id="10611" />
+	</item>
+	<item>
+		<!-- Event - Medal -->
+		<ingredient count="1000" id="95110" />
+
+		<!-- Dragon Strider -->
+		<production count="1" id="14819" />
+	</item>
+	<item>
+		<!-- Vote Coin -->
+		<ingredient count="1500" id="95110" />
+
+		<!-- Light Purple-Maned Horse Mount Bracelet -->
+		<production count="1" id="20029" />
+	</item>
+</list>
