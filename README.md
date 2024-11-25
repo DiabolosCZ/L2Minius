@@ -16,7 +16,6 @@
 <h2>Máme 1 sdílený zdrojový kód & 1 privátní</h2>
 
 <h3>Jediný bezplatný projekt na síti s pevným protokolem 273</h3>
-<h3>Přijímáme dary přes Pix: +55 21 98292-1391 / Zap</h3>
 <p>
  Privátní zdrojový kód bude aktualizován pro obchodní účely, <br>
  sdílený zdrojový kód bude aktualizován na základě <br>
