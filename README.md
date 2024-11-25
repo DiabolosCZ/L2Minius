@@ -1,128 +1,99 @@
+<h1>Zdrojový kód Minius High Five</h1>
 
-<h1>Source MultVerso High Five</h1>
-
- <div>
-  <h1>Transfome sua doação em estímulo <br>  * Turn your donation into stimulus <br>   * Convierte tu donación en estímulo</h1>
-    <h3>projetos_Em_andamentos_Gratuitos()</h3>
+<div>
+  <h1>Přeměňte svůj příspěvek na motivaci <br>  
+  * Turn your donation into stimulus <br>   
+  * Přeměňte svou donaci na motivaci</h1>
+    <h3>probíhající_projekty_zdarma()</h3>
     {
     <ul>
-    <li>Freya High Five = Base L2Russo/Tales/FandC   / Projeto MultVerso </li>
-    </ul>
-     }  
-    <h3>Contato()</h3>
-    {
-    <ul>
-    <li>Email: leandrogomes.santos@hotmail.com</li>
-    <li>Whatsapp: +55 21 98292-1391</li>
-      <li>Discord : TerryMaster#5011</li>
-      <li>Donate : leandrogomes.santos@hotmail.com / Paypal / Pix </li>
+    <li>Freya High Five = Základ L2Russo/Tales/FandC / Projekt Minius </li>
     </ul>
      }    
-  </div>
+</div>
   
-<img align="center" alt="Programdor" height="276" width="480" src="https://github.com/terrygomes/Projeto_H5_Custon/blob/Projeto-Emprego/logoh5.png">
-<h2>Temos 1 Source compartilhada & 1 privada</h2>
+<img align="center" alt="Programátor" height="276" width="480" src="https://github.com/terrygomes/Projeto_H5_Custon/blob/Projeto-Emprego/logoh5.png">
+<h2>Máme 1 sdílený zdrojový kód & 1 privátní</h2>
 
-<a href="https://l2multverso.com.br/" alt="Site Multverso" >Nosso Site MultVerso CURSOS & PROJETOS </a>
+<a href="https://l2minius.com/" alt="Web Minius" >Náš web Minius KURZY & PROJEKTY </a>
 
-<h3>Único projeto Free na net com Protocol Fixado 273</h3>
-<h3> Aceitamos doações pix: +55 21 98292-1391 / Zap</h3>
+<h3>Jediný bezplatný projekt na síti s pevným protokolem 273</h3>
+<h3>Přijímáme dary přes Pix: +55 21 98292-1391 / Zap</h3>
 <p>
- A source privada terá atualização para comércio, <br>
- a source compartilhada só terá atualização conforme o <br>
- o feedback das pessoas que a utilizarem...
- A base é a mesmas.
+ Privátní zdrojový kód bude aktualizován pro obchodní účely, <br>
+ sdílený zdrojový kód bude aktualizován na základě <br>
+ zpětné vazby od uživatelů, kteří jej používají... <br>
+ Základ je stejný.
 </p>
 
-<p>Obs: Todas as caracteristicas descritas já foram testadas no jogo, <br>
-temos muito mais coisas para testar e novidades.
+<p>Poznámka: Všechny popsané funkce byly testovány ve hře, <br>
+máme spoustu dalších věcí k testování a novinek.
 </p>
 <ul>
-<h3>======   [ Fixeds ] ======</h3>  
-<li>Configs / Arrumando </li>
-<li>JAVA 17/18 version</li>
-<li>controle de IP</li>
-<li>Banco de Imagens  MOBS / BOSS / ITENS</li>
-<li>Community board search imagens e funções .</li>
-<li>Community Board Modo [PADRÃO].</li>
-<li>Fixados suporte ao cliente clan War {Não testado ainda}. - fix arquivos cliente.</li>
+<h3>======   [ Opravy ] ======</h3>  
+<li>Konfigurace / úpravy</li>
+<li>JAVA verze 17/18</li>
+<li>Kontrola IP</li>
+<li>Databáze obrázků MOBS / BOSS / ITENS</li>
+<li>Vyhledávání na Community boardu - obrázky a funkce.</li>
+<li>Community Board v režimu [STANDARD].</li>
+<li>Opravená podpora pro klienta Clan War {ještě netestováno} - oprava souborů klienta.</li>
 </ul>
 
 <ul>
 <h3>======   [ Community Board ] ======</h3>  
 <li>Feature.</li>
-<li>Character  Controle.</li>
-<li>Sistema Auticon</li>
-<li>Clan info / Controle.</li>
-<li>Events Info.</li>
-<li>Vote Info.</li>
-<li>Shop / simples.</li>
- <li>Search Npc/ Itens/ Raid Boss.</li>
-<li>Venda de Nobles.</li>
-<li>venda de Hero</li>
-<li>Clan info / Controle.</li>
-<li>Events Info.</li>
-<li>Vote Info.</li>
-<li>Shop / simples.</li>
+<li>Kontrola postavy.</li>
+<li>Auticon systém.</li>
+<li>Informace o klanu / Kontrola.</li>
+<li>Informace o událostech.</li>
+<li>Informace o hlasování.</li>
+<li>Jednoduchý Shop.</li>
+<li>Vyhledávání NPC / předmětů / Raid Bossů.</li>
+<li>Prodej Noble statusu.</li>
+<li>Prodej Hero statusu.</li>
 </ul>
 
-
 <ul>
-<h3>======   [ Mods APIs ] ======</h3>  
-<li>Phantons funcionando  Ataques / Farms.</li>
-<li>Twitch tv               EM TESTE.</li>
-<li>Facebook msg            EM TESTE</li>
-<li>Vote System in java.</li>
-<li>Title / Nome = Color.</li>
-<li>Cadastro Em siege  = Ataque / defesa.</li>
-<li>Siege Infor   Ataque / Defesa.</li>
- <li>Achievements.</li>
-<li>Academy Search.</li>
-<li>Forum                  EM TESTEo</li>
-<li>Accont Controle.</li>
-<li>Party Marching.</li>
-<li>Forge Controle.</li>
+<h3>======   [ Modifikace API ] ======</h3>  
+<li>Phantoms fungují - útoky / farmy.</li>
+<li>Twitch TV (testováno).</li>
+<li>Facebook zprávy (testováno).</li>
+<li>Systém hlasování v Javě.</li>
+<li>Barevné Tituly / Jména.</li>
+<li>Registrace Siege - útok / obrana.</li>
+<li>Informace o Siege - útok / obrana.</li>
+<li>Achievementy.</li>
+<li>Vyhledávání akademie.</li>
+<li>Forum (testováno).</li>
+<li>Kontrola účtů.</li>
+<li>Party Matching.</li>
+<li>Kontrola Forge.</li>
 <li>Daily Quest.</li>
- </ul>
-
+</ul>
 
 <ul>
-<h3>======   [ Eventos ] ======</h3>  
-<li>Phantons funcionando  Ataques / Farms.</li>
+<h3>======   [ Události ] ======</h3>  
+<li>Phantoms fungují - útoky / farmy.</li>
 <li>TvT.</li>
-<li>Ctf</li>
+<li>Capture the Flag (Ctf).</li>
 <li>Last Hero.</li>
 <li>GvG.</li>
 <li>Korean Style.</li>
 <li>Kartilia.</li>
- </ul>
+</ul>
 
 <ul>
-<h3>======   [ Serviços ] ======</h3>  
-<li>Buffer Vip.</li>
-<li>Buffer Simples.</li>
-<li>Ctf</li>
+<h3>======   [ Služby ] ======</h3>  
+<li>VIP Buffer.</li>
+<li>Jednoduchý Buffer.</li>
 <li>Teleporte.</li>
-<li>Exclusivo Shop.</li>
-<li>Blacksmith Cutom.</li>
-<li>Sysmbols Shop.</li>
- <li>Prêmio Conta.</li>
-<li>WareHouse.</li>
-<li>Visualizar Local [fica assistindo eventos e instancias]</li>
+<li>Exkluzivní Shop.</li>
+<li>Vlastní Blacksmith.</li>
+<li>Symboly Shop.</li>
+<li>Odměny za účet.</li>
+<li>Sklad (Warehouse).</li>
+<li>Sledování událostí a instancí.</li>
 <li>Pc Point / Shop.</li>
-<li>Sistema de cores.</li>
- </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li>Barevný systém.</li>
+</ul>
