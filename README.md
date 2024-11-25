@@ -12,10 +12,8 @@
      }    
 </div>
   
-<img align="center" alt="Programátor" height="276" width="480" src="https://github.com/terrygomes/Projeto_H5_Custon/blob/Projeto-Emprego/logoh5.png">
+<img align="center" alt="Programátor" height="276" width="480" src="https://github.com/DiabolosCZ/L2Minius/blob/main/logoh5.png">
 <h2>Máme 1 sdílený zdrojový kód & 1 privátní</h2>
-
-<a href="https://l2minius.com/" alt="Web Minius" >Náš web Minius KURZY & PROJEKTY </a>
 
 <h3>Jediný bezplatný projekt na síti s pevným protokolem 273</h3>
 <h3>Přijímáme dary přes Pix: +55 21 98292-1391 / Zap</h3>
