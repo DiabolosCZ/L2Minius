@@ -123,7 +123,7 @@ public class AdminReload implements IAdminCommandHandler
 					}
 					else
 					{
-						player.setPlayerAccess(Config.gmlist.get(new Integer(0)));
+						player.setPlayerAccess(Config.gmlist.get(Integer.valueOf(0)));
 					}
 				}
 			}

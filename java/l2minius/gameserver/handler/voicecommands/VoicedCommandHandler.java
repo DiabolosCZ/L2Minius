@@ -44,6 +44,7 @@ import l2minius.gameserver.handler.voicecommands.impl.VoteReward;
 import l2minius.gameserver.handler.voicecommands.impl.Wedding;
 import l2minius.gameserver.handler.voicecommands.impl.WhoAmI;
 import l2minius.gameserver.handler.voicecommands.impl.res;
+import l2minius.gameserver.handler.voicecommands.impl.AutoFarm;
 import l2minius.gameserver.handler.voicecommands.impl.BotReport.ReportCommand;
 import l2minius.gameserver.masteriopack.rankpvpsystem.VoicedCommandHandlerPvpInfo;
 
@@ -87,6 +88,7 @@ public class VoicedCommandHandler extends AbstractHolder
 		registerVoicedCommandHandler(new LockPc());
 		registerVoicedCommandHandler(new NpcSpawn());
 		registerVoicedCommandHandler(new Donate());
+		registerVoicedCommandHandler(new AutoFarm());
 
 		if (Config.ENABLE_ACHIEVEMENTS)
 		{

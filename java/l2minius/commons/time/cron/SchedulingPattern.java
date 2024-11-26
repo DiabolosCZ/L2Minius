@@ -302,7 +302,7 @@ public class SchedulingPattern
 			List<Integer> values = new ArrayList<Integer>();
 			for (int i = min; i <= max; i++)
 			{
-				values.add(new Integer(i));
+				values.add(Integer.valueOf(i));
 			}
 			return values;
 		}
@@ -325,7 +325,7 @@ public class SchedulingPattern
 		if (size == 1)
 		{
 			List<Integer> values = new ArrayList<Integer>();
-			values.add(new Integer(v1));
+			values.add(Integer.valueOf(v1));
 			return values;
 		}
 		else
@@ -345,7 +345,7 @@ public class SchedulingPattern
 			{
 				for (int i = v1; i <= v2; i++)
 				{
-					values.add(new Integer(i));
+					values.add(Integer.valueOf(i));
 				}
 			}
 			else if (v1 > v2)
@@ -354,17 +354,17 @@ public class SchedulingPattern
 				int max = parser.getMaxValue();
 				for (int i = v1; i <= max; i++)
 				{
-					values.add(new Integer(i));
+					values.add(Integer.valueOf(i));
 				}
 				for (int i = min; i <= v2; i++)
 				{
-					values.add(new Integer(i));
+					values.add(Integer.valueOf(i));
 				}
 			}
 			else
 			{
 				// v1 == v2
-				values.add(new Integer(v1));
+				values.add(Integer.valueOf(v1));
 			}
 			return values;
 		}

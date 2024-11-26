@@ -42,7 +42,7 @@ public class Achievement
 
 			String[] split = s.split(",");
 			Integer item = 0;
-			Long count = new Long(0);
+			Long count = Long.valueOf(0);
 			try
 			{
 				item = Integer.valueOf(split[0]);

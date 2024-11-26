@@ -23,5 +23,6 @@ public enum CtrlIntention
 	/** Follow to target */
 	AI_INTENTION_FOLLOW,
 	/** Couple Action(dance, etc) */
-	AI_INTENTION_COUPLE_ACTION
+	AI_INTENTION_COUPLE_ACTION,
+	AI_INTENTION_MOVE_TO
 }

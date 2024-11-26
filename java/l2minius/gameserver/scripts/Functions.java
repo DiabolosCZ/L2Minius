@@ -128,6 +128,16 @@ public class Functions
 	{
 		show(message.toString(), self, null);
 	}
+	
+	public static void showFarm(String path, Player player) {
+    if (path == null || player == null) {
+        return;
+    }
+
+    NpcHtmlMessage msg = new NpcHtmlMessage(0); // NPC ID 0, pokud není NPC
+    msg.setFile(path); // Nastavení cesty k HTML souboru
+    player.sendPacket(msg); // Odeslání zprávy hráči
+	}
 
 	public static void sendMessage(String text, Player self)
 	{

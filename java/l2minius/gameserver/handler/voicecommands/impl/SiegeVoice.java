@@ -41,7 +41,7 @@ public class SiegeVoice implements IVoicedCommandHandler
 		if (!target.isEmpty())
 		{
 			final String[] targetSplit = target.split(" ");
-			if (!NumberUtils.isNumber(targetSplit[0]))
+			if (!NumberUtils.isCreatable(targetSplit[0]))
 			{
 				showMainPage(activeChar);
 				return true;

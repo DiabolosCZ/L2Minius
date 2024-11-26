@@ -213,7 +213,7 @@ public class RaidBossInstance extends MonsterInstance
 				info = new Object[]
 				{
 					new HashSet<Player>(),
-					new Long(0)
+					Long.valueOf(0)
 				};
 				participants.put(key, info);
 			}

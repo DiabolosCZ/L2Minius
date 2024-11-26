@@ -632,7 +632,7 @@ public abstract class Skill extends StatTemplate implements Cloneable
 		_flyingTransformUsage = set.getBool("flyingTransformUsage", false);
 		_canUseTeleport = set.getBool("canUseTeleport", true);
 
-		if (NumberUtils.isNumber(set.getString("element", "NONE")))
+		if (NumberUtils.isCreatable(set.getString("element", "NONE")))
 		{
 			_element = Element.getElementById(set.getInteger("element", -1));
 		}

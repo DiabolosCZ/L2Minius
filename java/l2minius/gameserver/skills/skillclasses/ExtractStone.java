@@ -74,7 +74,7 @@ public class ExtractStone extends Skill
 			return false;
 		}
 
-		if (!_npcIds.isEmpty() && !_npcIds.contains(new Integer(target.getNpcId())))
+		if (!_npcIds.isEmpty() && !_npcIds.contains(Integer.valueOf(target.getNpcId())))
 		{
 			activeChar.sendPacket(SystemMsg.INVALID_TARGET);
 			return false;

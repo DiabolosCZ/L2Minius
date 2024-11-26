@@ -305,8 +305,8 @@ public class RaidBossSpawnManager
 
 	// ----------- Points & Ranking -----------
 
-	public static final Integer KEY_RANK = new Integer(-1);
-	public static final Integer KEY_TOTAL_POINTS = new Integer(0);
+	public static final Integer KEY_RANK = Integer.valueOf(-1);
+	public static final Integer KEY_TOTAL_POINTS = Integer.valueOf(0);
 
 	private Lock pointsLock = new ReentrantLock();
 

@@ -358,6 +358,8 @@ import l2minius.gameserver.utils.SqlBatch;
 import l2minius.gameserver.utils.Strings;
 import l2minius.gameserver.utils.TeleportUtils;
 import l2minius.gameserver.utils.Util;
+import l2minius.gameserver.autofarm.AutoFarmSettings;
+
 
 @SuppressWarnings("serial")
 public final class Player extends Playable implements PlayerGroup
@@ -367,6 +369,7 @@ public final class Player extends Playable implements PlayerGroup
 	public static final int MAX_FRIEND_SIZE = 128;
 
 	private static final Logger _log = LoggerFactory.getLogger(Player.class);
+    private AutoFarmSettings autoFarmSettings;
 
 	public static final String NO_TRADERS_VAR = "notraders";
 	public static final String NO_ANIMATION_OF_CAST_VAR = "notShowBuffAnim";
@@ -14924,4 +14927,105 @@ public final class Player extends Playable implements PlayerGroup
 	{
 		return _lastLocation;
 	}
+
+    public void onLogin() {
+        if (autoFarmSettings == null) {
+            autoFarmSettings = new AutoFarmSettings(getObjectId());
+            autoFarmSettings.load(); // Načtení uložených nastavení
+        }
+    }
+
+    public AutoFarmSettings getAutoFarmSettings() {
+       return autoFarmSettings;
+	}
+	
+	public class Player extends Creature {
+
+    private double currentHp; // Přidaná proměnná pro aktuální HP
+    private double currentMp; // Přidaná proměnná pro aktuální MP
+    private double maxHp; // Přidaná proměnná pro maximální HP
+    private double maxMp; // Přidaná proměnná pro maximální MP
+
+    // Další vlastnosti
+
+    public Player() {
+        // Konstruktor
+    }
+
+    // Přepsaná metoda pro získání aktuální HP
+    @Override
+    public double getCurrentHp() {
+        return currentHp;
+    }
+
+    // Přepsaná metoda pro nastavení aktuální HP
+    @Override
+    public void setCurrentHp(double newHp) {
+        this.currentHp = newHp;
+    }
+
+    // Přepsaná metoda pro získání maximální HP
+    @Override
+    public double getMaxHp() {
+        return maxHp;
+    }
+
+    // Přepsaná metoda pro získání aktuální MP
+    @Override
+    public double getCurrentMp() {
+        return currentMp;
+    }
+
+    // Přepsaná metoda pro nastavení aktuální MP
+    @Override
+    public void setCurrentMp(double newMp) {
+        this.currentMp = newMp;
+    }
+
+    // Přepsaná metoda pro získání maximální MP
+    @Override
+    public double getMaxMp() {
+        return maxMp;
+    }
+
+    // Opravené metody, odstranění duplikace
+
+    public void setTarget(GameObject target) {
+        // Oprava přístupu a kompatibility typů
+        this.target = new HardReference<>(target);
+    }
+
+    public GameObject getTarget() {
+        return this.target.get();
+    }
+
+    @Override
+    public PlayerAI getAI() {
+        // Oprava přístupu
+        return (PlayerAI) ai;
+    }
+
+    // Další opravy
+    public boolean isSkillOnCooldown(Skill skill) {
+        return skill != null && !skill.isOnCooldown();
+    }
+
+    public boolean containsEffect(int skillId) {
+        return getEffectList().hasEffect(skillId); // Opravený název metody
+    }
+
+    public void castSkill(Skill skill) {
+        if (skill != null) {
+            skill.cast(this, getTarget());
+        }
+    }
+
+    public double getDistance(GameObject obj) {
+        if (obj == null) {
+            return Double.MAX_VALUE;
+        }
+        return super.getDistance(obj);
+    }
 }
+}
+

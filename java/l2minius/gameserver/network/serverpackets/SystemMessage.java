@@ -4694,13 +4694,13 @@ public class SystemMessage extends L2GameServerPacket
 
 	public SystemMessage addDoorName(int id)
 	{
-		this.args.add(new Arg(TYPE_DOOR_NAME, new Integer(id)));
+		this.args.add(new Arg(TYPE_DOOR_NAME, Integer.valueOf(id)));
 		return this;
 	}
 
 	public SystemMessage addNpcName(int id)
 	{
-		this.args.add(new Arg(TYPE_NPC_NAME, new Integer(1000000 + id)));
+		this.args.add(new Arg(TYPE_NPC_NAME, Integer.valueOf(1000000 + id)));
 		return this;
 	}
 

@@ -56,7 +56,7 @@ public class NpcHtmlMessage extends L2GameServerPacket
 
 			Object[] scriptArgs = new Object[]
 			{
-				new Integer(val)
+				Integer.valueOf(val)
 			};
 			for (ScriptClassAndMethod append : appends)
 			{

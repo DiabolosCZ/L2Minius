@@ -481,7 +481,7 @@ public class Olympiad
 	public static synchronized void logoutPlayer(Player player)
 	{
 		_classBasedRegisters.removeValue(player.getObjectId());
-		_nonClassBasedRegisters.remove(new Integer(player.getObjectId()));
+		_nonClassBasedRegisters.remove(Integer.valueOf(player.getObjectId()));
 		_teamBasedRegisters.removeValue(player.getObjectId());
 
 		OlympiadGame game = player.getOlympiadGame();
@@ -540,7 +540,7 @@ public class Olympiad
 			}
 		}
 		_classBasedRegisters.removeValue(noble.getObjectId());
-		_nonClassBasedRegisters.remove(new Integer(noble.getObjectId()));
+		_nonClassBasedRegisters.remove(Integer.valueOf(noble.getObjectId()));
 		_teamBasedRegisters.removeValue(noble.getObjectId());
 
 		noble.sendPacket(SystemMsg.YOU_HAVE_BEEN_REMOVED_FROM_THE_GRAND_OLYMPIAD_WAITING_LIST);
