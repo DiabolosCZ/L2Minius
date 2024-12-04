@@ -7,21 +7,12 @@
     <h3>probíhající_projekty_zdarma()</h3>
     {
     <ul>
-    <li>Freya High Five = Základ L2Russo/Tales/FandC / Projekt Minius </li>
+    <li>Freya High Five = Základ FandC / Projekt Minius </li>
     </ul>
      }    
 </div>
   
 <img align="center" alt="Programátor" height="276" width="480" src="https://github.com/DiabolosCZ/L2Minius/blob/main/logoh5.png">
-<h2>Máme 1 sdílený zdrojový kód & 1 privátní</h2>
-
-<h3>Jediný bezplatný projekt na síti s pevným protokolem 273</h3>
-<p>
- Privátní zdrojový kód bude aktualizován pro obchodní účely, <br>
- sdílený zdrojový kód bude aktualizován na základě <br>
- zpětné vazby od uživatelů, kteří jej používají... <br>
- Základ je stejný.
-</p>
 
 <p>Poznámka: Všechny popsané funkce byly testovány ve hře, <br>
 máme spoustu dalších věcí k testování a novinek.
